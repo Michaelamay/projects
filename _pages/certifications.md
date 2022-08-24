@@ -48,6 +48,9 @@ title: Certs
     <body>
         <div class="box1">
             <div class="boxa">
+                <img class="display" style="border:7px solid #C19A6B;" src="/projects/Jenkins.png">
+            </div>
+            <div class="boxa">
                 <img class="display" style="border:7px solid #C19A6B;" src="/projects/RPA.png">
             </div>
             <div class="boxa">
