@@ -54,7 +54,6 @@ title: Certs
                 width: 355px;
                 margin-left: auto;
                 margin-right: auto;
-*/
             }
             .display{
                 height: auto;
@@ -105,7 +104,7 @@ title: Certs
         
         <div class="box1">
             <div class="boxa">
-                <img class="display" style="border:7px solid #C19A6B;" src="/projects/imgs/RPA.png">
+                <img class="display" style="border:7px solid #C19A6B;" src="/projects/RPA.png">
             </div>
             <div class="boxa">
                 <img class="display" style="border:7px solid #C19A6B;" src="/projects/Udemy_webstore.png">
@@ -168,8 +167,25 @@ title: Certs
 <br>
 <br>
 <br>
-<!-- <br>
-<br> -->
-<!-- <br>
 <br>
-<br> -->
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
