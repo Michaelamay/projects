@@ -79,49 +79,72 @@ title: Certs
         
         <div class="box3">
             <div class="boxc">
-                <img class="display" style="border:7px solid #C19A6B;" src="/Flex/imgs/API_testing.png">
+                <img class="display" style="border:7px solid #C19A6B;" src="/projects/API_testing.png">
             </div>
         </div>
         
         <div class="box2">
             <div class="boxa">
-                <img class="display" style="border:7px solid #C19A6B;" src="/Flex/imgs/Jenkins.png">
+                <img class="display" style="border:7px solid #C19A6B;" src="/projects/Jenkins.png">
             </div>
             
             <div class="boxa">
-                <img class="display" style="border:7px solid #C19A6B;" src="/Flex/imgs/Agile_foundations.png">
+                <img class="display" style="border:7px solid #C19A6B;" src="/projects/Agile_foundations.png">
             </div>
         </div>
         
         <div class="box0">
             <div class="boxa">
-                <img class="display" style="border:7px solid #C19A6B;" src="/Flex/imgs/AgileManagement.png">
+                <img class="display" style="border:7px solid #C19A6B;" src="/projects/AgileManagement.png">
             </div>
             <div class="boxa">
-                <img class="display" style="border:7px solid #C19A6B;" src="/Flex/imgs/Angular.png">
+                <img class="display" style="border:7px solid #C19A6B;" src="/projects/Angular.png">
             </div>
         </div>
         
         
         <div class="box1">
             <div class="boxa">
-                <img class="display" style="border:7px solid #C19A6B;" src="/Flex/imgs/RPA.png">
+                <img class="display" style="border:7px solid #C19A6B;" src="/projects/imgs/RPA.png">
             </div>
             <div class="boxa">
-                <img class="display" style="border:7px solid #C19A6B;" src="/Flex/imgs/Udemy_webstore.png">
+                <img class="display" style="border:7px solid #C19A6B;" src="/projects/Udemy_webstore.png">
             </div>
         </div>
         
         <div class="outterBox">
             <div class="littleBox">
-                <img class="display" style="height:230px; width: 349px; border:7px solid #C19A6B;" src="/Flex/imgs/Coursera_deeplearning.png">
+                <img class="display" style="height:230px; width: 349px; border:7px solid #C19A6B;" src="/projects/Coursera_deeplearning.png">
             </div>
             <div class="littleBox">
-                <img class="display" style="height:230px; width: 350px; border:7px solid #C19A6B;" src="/Flex/imgs/RPA_foundationTraining.png">
+                <img class="display" style="height:230px; width: 350px; border:7px solid #C19A6B;" src="/projects/RPA_foundationTraining.png">
             </div>
         </div> 
     </body>
 </html>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <br>
 <br>
