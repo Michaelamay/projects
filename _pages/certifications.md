@@ -11,7 +11,7 @@ title: Certs
 /*            Each box 0 or 1 can hold 2 frames. To add more frames begin with a box 0 0r 1 properties, insert box a inside for frame.*/
             main {
                 margin: 0 auto;
-                max-width: 70rem !important;
+                max-width: 76rem !important;
             }
             .box0{
                 width: 800px;
@@ -190,6 +190,38 @@ title: Certs
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>  
+<br>
+<br>  
+<br>
+<br>  
+<br>
+<br>  
+<br>
+<br>  
+<br>
+<br>  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>    
+<br>
+<br>
+<br>
+<br>    
+<br>
+<br>
+<br>
+<br>    
 <br>
 <br>
 <br>
