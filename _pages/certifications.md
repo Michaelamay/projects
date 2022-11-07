@@ -11,27 +11,27 @@ title: Certs
 /*            Each box 0 or 1 can hold 2 frames. To add more frames begin with a box 0 0r 1 properties, insert box a inside for frame.*/
             main {
                 margin: 0 auto;
-                max-width: 75rem !important;
+                max-width: 70rem !important;
             }
             .box0{
                 width: 800px;
                 height: 610px;
                 position: absolute;
-                margin-top: 600px;
+                margin-top: 920px;
                 display: flex;
             }
             .box1 {
                 width: 800px;
                 height: 610px;
                 position: absolute;
-                margin-top: 900px;
+                margin-top: 1380px;
                 display: flex;
             }
             .box2 {
                 width: 800px;
                 height: 610px;
                 position: absolute;
-                margin-top: 300px;
+                margin-top: 460px;
                 display: flex;
             }
             .box3 {
@@ -39,17 +39,11 @@ title: Certs
                 height: 610px;
                 position: absolute;
             }
-
-            /*
-            /_ margin-top: 600px;_/
-            display: flex;
-            }
-            */
             .boxa{
                 position: relative;
                 height: 250px;
                 width: 355px;
-                margin-right: 25px;
+                margin-right: 225px;
             }
             .boxb{
                 height: 273px;
@@ -65,13 +59,19 @@ title: Certs
                 margin-right: auto;
             }
             .display{
+/*
                 height: auto;
                 width: 98%;
+*/
+/*                Making all but last row of frames bigger.*/
+                height: 450px;
+                width: 550px;
             }
             .littleBox{
                 width: 350px;
                 height: 235px;
-                margin-right: 30px;
+                margin-right: 230px;
+                margin-top: 640px;
                 position: relative;
             }
             .outterBox{
@@ -122,10 +122,10 @@ title: Certs
 
         <div class="outterBox">
             <div class="littleBox">
-                <img class="display" style="height:230px; width: 349px; border:7px solid #C19A6B;" src="/projects/Coursera_deeplearning.png">
+                <img class="display" style="height:450px; width: 550px; border:7px solid #C19A6B;" src="/projects/Coursera_deeplearning.png">
             </div>
             <div class="littleBox">
-                <img class="display" style="height:230px; width: 350px; border:7px solid #C19A6B;" src="/projects/RPA_foundationTraining.png">
+                <img class="display" style="height:450px; width: 550px; border:7px solid #C19A6B;" src="/projects/RPA_foundationTraining.png">
             </div>
         </div>
     </body>
