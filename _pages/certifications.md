@@ -59,10 +59,6 @@ title: Certs
                 margin-right: auto;
             }
             .display{
-/*
-                height: auto;
-                width: 98%;
-*/
 /*                Making all but last row of frames bigger.*/
                 height: 450px;
                 width: 550px;
@@ -84,12 +80,38 @@ title: Certs
  </style>
 </head>
 <body>
-
+<!--box 3 is odd frame.-->
+<!--
         <div class="box3">
             <div class="boxc">
                 <img class="display" style="border:7px solid #C19A6B;" src="/projects/API_testing.png">
             </div>
         </div>
+-->    
+        <div class="box2">
+            <div class="boxa">
+                <img class="display" style="border:7px solid #C19A6B;" src="/projects/AWSConcepts.png">
+
+            </div>
+            <div class="boxa">
+                <img class="display" style="border:7px solid #C19A6B;" src="/projects/Docker.png">
+
+            </div>
+        </div>
+
+    
+        <div class="box2">
+            <div class="boxa">
+                <img class="display" style="border:7px solid #C19A6B;" src="/projects/Learning REST APIs.png">
+
+            </div>
+            <div class="boxa">
+                <img class="display" style="border:7px solid #C19A6B;" src="/projects/API_testing.png">
+
+            </div>
+        </div>
+
+
 
         <div class="box2">
             <div class="boxa">
