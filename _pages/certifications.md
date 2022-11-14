@@ -116,7 +116,7 @@ title: Certs
     
         <div class="box3">
             <div class="boxa">
-                <img class="display" style="border:7px solid #C19A6B;" src="/projects/Learning REST APIs.png">
+                <img class="display" style="border:7px solid #C19A6B;" src="/projects/LearningRESTAPIs.png">
 
             </div>
             <div class="boxa">
