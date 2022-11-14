@@ -34,11 +34,25 @@ title: Certs
                 margin-top: 460px;
                 display: flex;
             }
-            .box3 {
+            .box3{
+                width:800px;
+                height:610px;
+                position: absolute;
+                margin-top:250px;
+                display:flex;
+            }
+            .box4{
+                width:800px;
+                height:610px;
+                position: absolute;
+                margin-top:150px;
+                display:flex;
+            }
+            /* .box3 {
                 width: 800px;
                 height: 610px;
                 position: absolute;
-            }
+            } */
             .boxa{
                 position: relative;
                 height: 250px;
@@ -88,7 +102,7 @@ title: Certs
             </div>
         </div>
 -->    
-        <div class="box2">
+        <div class="box4">
             <div class="boxa">
                 <img class="display" style="border:7px solid #C19A6B;" src="/projects/AWSConcepts.png">
 
@@ -100,7 +114,7 @@ title: Certs
         </div>
 
     
-        <div class="box2">
+        <div class="box3">
             <div class="boxa">
                 <img class="display" style="border:7px solid #C19A6B;" src="/projects/Learning REST APIs.png">
 
