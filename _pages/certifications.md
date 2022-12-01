@@ -17,35 +17,35 @@ title: Certs
                 width: 800px;
                 height: 610px;
                 position: absolute;
-                margin-top: 920px;
+                margin-top: 1403px;
                 display: flex;
             }
             .box1 {
                 width: 800px;
                 height: 610px;
                 position: absolute;
-                margin-top: 1380px;
+                margin-top: 1870px;
                 display: flex;
             }
             .box2 {
                 width: 800px;
                 height: 610px;
                 position: absolute;
-                margin-top: 460px;
+                margin-top: 935px;
                 display: flex;
             }
             .box3{
                 width:800px;
                 height:610px;
                 position: absolute;
-                margin-top:250px;
+                margin-top:470px;
                 display:flex;
             }
             .box4{
                 width:800px;
                 height:610px;
                 position: absolute;
-                margin-top:150px;
+                margin-top:0px;
                 display:flex;
             }
             /* .box3 {
@@ -88,7 +88,7 @@ title: Certs
                 height: 290px;
                 width: 800px;
                 position: absolute;
-                margin-top:1199px;
+                margin-top:1695px;
                 display: flex;
             }
  </style>
@@ -264,3 +264,7 @@ title: Certs
 <br>
 <br>
 <br>
+<br> 
+<br> 
+<br> 
+<br> <br> <br> <br> <br> <br> <br> <br> <br> 
