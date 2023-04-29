@@ -2,7 +2,7 @@
 layout: post
 title: Twitter Viewer <br><font style="color:gray"><small>Desktop application</small></font>
 description: Enter a keyword to view and save related tweets via Twitter's API.
-summary: A simple fun desktop application to search tweets and saved them.<br><strong>Written:</strong> Java, Twitter's API, H2 RDBMS, NetBeans
+summary: A simple fun desktop application to search tweets and saved them.<br><br><strong>Written:</strong> Java, Twitter's API, H2 RDBMS, NetBeans
 ---
 <style>
     h1{
