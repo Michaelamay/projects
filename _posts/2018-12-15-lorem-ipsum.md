@@ -15,9 +15,16 @@ With this simple application users can search for tweets in the search box and h
 
 <a href="https://github.com/Michaelamay/TwitterViewer/raw/master/dist/TweetViewer.jar">Download</a>
 
+How to run app via the command line
+<img src="https://ibb.co/8dkbYnd" alt="command line" border="3">
+
+<a href="https://github.com/Michaelamay/TwitterViewer">View Source Code.</a>
+
 <img src="https://i.ibb.co/XY2y5V6/search.png" alt="search" border="3">
 <img src="https://i.ibb.co/D9frf9H/source-tweet.png" alt="source-tweet" border="3">
 <img src="https://i.ibb.co/r7Tzhqw/archive-mode.png" alt="archive-mode" border="3">
+
+
 
 
 
