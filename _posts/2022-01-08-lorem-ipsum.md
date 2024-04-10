@@ -1,0 +1,19 @@
+---
+layout: post
+title: Meal Search Hub <br><font style="color:gray"><small>Food Search Website</small></font>
+description: Lorem Ipsum is simply dummy text
+summary: A platform to search popular food receipes.<br><br><strong>Written:</strong> API, PHP, JavaScript, HTML, CSS, SQL
+---
+<style>
+h1{
+    color: Black;
+}
+</style>
+Meal Search Hub is a website which allows users to search all kinds of receipes from around the world. A user simply needs to enter a keyword such as vegan lasgna and it will query www.TheMealDB.com API, load and save the data into a persistent database, and then render those results on the page. Users will be able to see all necessary ingredients to make their favorite meals.
+
+<a href="https://github.com/Michaelamay/EmployeeSysRepo">Visit website</a> &#x2022; <a href="https://github.com/Michaelamay/FoodStore">View Source Code</a>
+
+<!-- Image section -->
+<!--<img src="https://i.ibb.co/mcgTnfM/Chuck-home.png" alt="Main front page" border="3">-->
+
+<img src="https://i.ibb.co/G5Gtzr9/Food-Store.png" alt="Main front page">
