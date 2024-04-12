@@ -18,5 +18,6 @@ Meal Search Hub is a website which allows users to search all kinds of receipes 
 
 <!-- Image section -->
 <!--<img src="https://i.ibb.co/mcgTnfM/Chuck-home.png" alt="Main front page" border="3">-->
-<!-- <img src="https://i.ibb.co/G5Gtzr9/Food-Store.png" alt="Main front page">  -->
-<img src="/images/FoodStore.png" style="width:100px;height:100px;" alt="Main front page">
+<img src="https://i.ibb.co/G5Gtzr9/Food-Store.png" alt="Main front page">
+<!-- <img src="/images/FoodStore.png" style="width:100px;height:100px;" alt="Main front page"> -->
+
