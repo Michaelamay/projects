@@ -2,7 +2,7 @@
 layout: post
 title: Employee System <br><font style="color:gray"><small>HR Website</small></font>
 description: Lorem Ipsum is simply dummy text
-summary: A system to register employees.<br><br><strong>Written:</strong> Spring, Java, MVC, JSP, XML, REST, HTML, CSS, Javascript, API, h2, Tomcat
+summary: A system to register employees.<br><br><strong>Written:</strong> Spring, Java, MVC, JSP, XML, REST, HTML, CSS, Javascript, API, h2, Tomcat, HTTTP Methods
 ---
 <style>
 h1{
