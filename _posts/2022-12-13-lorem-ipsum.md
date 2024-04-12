@@ -11,9 +11,12 @@ h1{
 </style>
 Meal Search Hub is a website which allows users to search all kinds of receipes from around the world. A user simply needs to enter a keyword such as vegan lasgna and it will query www.TheMealDB.com API, load and save the data into a persistent database, and then render those results on the page. Users will be able to see all necessary ingredients to make their favorite meals.
 
-<a href="www.mealsearch.online">Visit website</a> &#x2022; <a href="https://github.com/Michaelamay/FoodStore">View Source Code</a>
+<!-- <p>Check out <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a>.</p> -->
+
+
+<a href="https://www.mealsearch.online">Visit website</a> &#x2022; <a href="https://github.com/Michaelamay/FoodStore">View Source Code</a>
 
 <!-- Image section -->
 <!--<img src="https://i.ibb.co/mcgTnfM/Chuck-home.png" alt="Main front page" border="3">-->
 <!-- <img src="https://i.ibb.co/G5Gtzr9/Food-Store.png" alt="Main front page">  -->
-<img src="/images/FoodStore.png" alt="Main front page">
+<img src="/images/FoodStore.png" style="width:100px;height:100px;" alt="Main front page">
