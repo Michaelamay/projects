@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Top Stock Market Symbols T <br><font style="color:gray"><small>Information/Educational Website</small></font>
+title: Top Ten Stock Market Symbols <br><font style="color:gray"><small>Information/Educational Website</small></font>
 description: Lorem Ipsum is simply dummy text
 summary: A JAVA program that display the top 10 stock symbols from the stock market.<br><br><strong>Written:</strong> JAVA, Hashmaps, Trees
 ---
@@ -18,7 +18,7 @@ To run the program on your computer:
 2. Make sure to place the PitchDriver.class file and pitch_feed_data file on your desktop or in the same folder so the program can find it.
 3. Finally, open the command line again, navigate to your desktop, and simply type in 'java PitchDriver'
 
-<a href="https://github.com/Michaelamay/StockMarketSymbols/blob/main/PitchDriver.java">View source code</a> &#x2022; <a href="https://github.com/Michaelamay/StockMarketSymbols/blob/main/PitchDriver.class">Download Program File</a>
+<a href="https://github.com/Michaelamay/StockMarketSymbols/blob/main/PitchDriver.java">View source code</a> &#x2022; <a href="https://github.com/Michaelamay/StockMarketSymbols/blob/main/PitchDriver.class">Download Program File</a> &#x2022; <a href="https://github.com/Michaelamay/StockMarketSymbols/blob/main/pitch_feed_data">Download Pitch Feed Data File</a>
 
 <!-- Image section -->
 <!--<img src="https://i.ibb.co/mcgTnfM/Chuck-home.png" alt="Main front page" border="3">-->
