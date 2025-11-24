@@ -11,7 +11,7 @@ h1{
 </style>
 Employee System is a platform that allows users to add a new employee, update their personal information with a provided ID, delete an employee(s), and view all current active employees on the database.
 
-<a href="https://employeesystem.online/">Visit website</a> &#x2022; <a href="https://github.com/Michaelamay/EmployeeSysRepo">View Source Code</a>
+<a href="www.employeesystem.cloud">Visit website</a> &#x2022; <a href="https://github.com/Michaelamay/EmployeeSysRepo">View Source Code</a>
 
 <!-- Image section -->
 <!--<img src="https://i.ibb.co/mcgTnfM/Chuck-home.png" alt="Main front page" border="3">-->
