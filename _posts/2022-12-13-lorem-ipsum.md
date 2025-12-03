@@ -13,8 +13,8 @@ Meal Search Hub is a website which allows users to search all kinds of receipes 
 
 <!-- <p>Check out <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a>.</p> -->
 
-
-<a href="http://mealsearchonline.online/fs/index.php">Visit website</a> &#x2022; <a href="https://github.com/Michaelamay/FoodStore">View Source Code</a>
+Warning: Chrome browser recommended. If you encounter a Not Secure or Your Connection is not private message on Google Chrome either just click on Advanced or go to site settings on your Chrome browser, scroll down to Insecure content and select Allow.<br><br>
+<a href="https://mealsearchonline.online/fs/index.php">Visit website</a> &#x2022; <a href="https://github.com/Michaelamay/FoodStore">View Source Code</a>
 
 <!-- Image section -->
 <!--<img src="https://i.ibb.co/mcgTnfM/Chuck-home.png" alt="Main front page" border="3">-->
