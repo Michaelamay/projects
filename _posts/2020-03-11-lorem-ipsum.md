@@ -14,7 +14,6 @@ Skeleton was developed at Yale's University 36 hours annual hackathon, an event 
 <a href="https://github.com/Michaelamay/Skeleton-1">View Source Code</a>
 
 <!-- Image section -->
-<!--<img src="https://i.ibb.co/mcgTnfM/Chuck-home.png" alt="Main front page" border="3">-->
 
 <img src="https://i.ibb.co/tJKfsHN/predictions.png" alt="Main front page">
 <img src="https://i.ibb.co/WWRLw14/group.jpg" alt="Team photo">
