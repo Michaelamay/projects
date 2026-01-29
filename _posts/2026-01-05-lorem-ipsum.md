@@ -15,11 +15,11 @@ Healthcare Management App is a platform where patients can easily connect, regis
 
 <!-- Image section -->
 
-<img src="" alt="main shot" border="3">
-<img src="" alt="continue registration" border="3">
-<img src="" alt="medical information" border="3">
-<img src="" alt="ID and verification" border="3">
-<img src="" alt="consent" border="3">
-<img src="" alt="new appointment" border="3">
-<img src="" alt="success page" border="3">
+<img src="https://i.ibb.co/JWYLp0S2/healthcareapp-one.png" alt="main shot" border="3">
+<img src="https://i.ibb.co/PsyJzdVs/healthcareapp-two.png" alt="continue registration" border="3">
+<img src="https://i.ibb.co/9k5Zzgzh/healthcareapp-three.png" alt="medical information" border="3">
+<img src="https://i.ibb.co/xqPcGydk/healthcareapp-four.png" alt="ID and verification" border="3">
+<img src="https://i.ibb.co/VYMkTHLw/healthcareapp-five.png" alt="consent" border="3">
+<img src="https://i.ibb.co/pvXQ11w0/healthcareapp-six.png" alt="new appointment" border="3">
+<img src="https://i.ibb.co/21Zg3xBF/healthcareapp-seven.png" alt="success page" border="3">
 
