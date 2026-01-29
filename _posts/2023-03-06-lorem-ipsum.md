@@ -1,26 +1,21 @@
 ---
 layout: post
-title: Healthcare Management App <br><font style="color:gray"><small>Online Patient Services</small></font>
-description: A platform where patients can book appointments with doctors.
-summary: A simply platform where patients can easily book appointments with doctors.<br><br><strong>Written:</strong> Typescript, Next.js, React, Cloud Appwrite Database, API
+title: Furnitureland <br><font style="color:gray"><small>E-commerce Website</small></font>
+description: Lorem Ipsum is simply dummy text
+summary: A mock website that sells furniture.<br><br><strong>Written:</strong> HTML, CSS, Javascript, jQuery, Bootstrap
 ---
 <style>
 h1{
     color: #45ccb8;
 }
 </style>
-Healthcare Management App is a platform where patients can connect, register, and book appointments from a list of primariry physicians. Patients can enter all of their personal information including emergency contact, insurance, upload photo identification, enter a reason for the visit, and more. All of the patients information is securely store in the Appwrite Cloud database.
+A mock website that sells furniture. Furnitureland lists multiple items for sale and has a dynamic array of categories. When users enter the site, only the hottest and featured items are listed in the large-scale window. This captures the attention of users immediately. Users can also click the next and previous arrow to see other items. Furthermore, the scrolling down on the page, this section focuses solely on individuals’ items. The pages contain great practice of footer and headers ideally for e-commerce sites.
 
-<a href="https://healthcare-main-beige.vercel.app/">Visit website</a> &#x2022; <a href="https://github.com/Michaelamay/healthcare-main">View Source Code</a>
+<a href="https://michaelamay.github.io/Furnitureland/">Visit website</a> &#x2022; <a href="https://github.com/Michaelamay/Furnitureland">View Source Code</a>
 
 <!-- Image section -->
-<img src="../images/Healthcare screenshots/one.png" alt="" border="3">
-<img src="../images/Healthcare screenshots/two.png" alt="" border="3">
-<img src="../images/Healthcare screenshots/three.png" alt="" border="3">
-<img src="../images/Healthcare screenshots/four.png" alt="" border="3">
-<img src="../images/Healthcare screenshots/five.png" alt="" border="3">
-<img src="../images/Healthcare screenshots/six.png" alt="" border="3">
-<img src="../images/Healthcare screenshots/seven.png" alt="" border="3">
-
+<img src="https://i.ibb.co/0hRGQGP/main-screen.png" alt="main-screen" border="3">
+<img src="https://i.ibb.co/r2YGQwH/middle-column-items.png" alt="middle-column-items" border="3">
+<img src="https://i.ibb.co/pjRby5B/footer.png" alt="footer" border="3">
 
 
