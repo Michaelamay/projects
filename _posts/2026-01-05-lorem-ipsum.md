@@ -15,12 +15,14 @@ Healthcare Management App is a platform where patients can easily connect, regis
 
 <!-- Image section -->
 
-<img src="../images/Healthcare screenshots/one.png" alt="" border="3">
-<img src="../images/Healthcare screenshots/two.png" alt="" border="3">
-<img src="../images/Healthcare screenshots/three.png" alt="" border="3">
-<img src="../images/Healthcare screenshots/four.png" alt="" border="3">
-<img src="../images/Healthcare screenshots/five.png" alt="" border="3">
-<img src="../images/Healthcare screenshots/six.png" alt="" border="3">
-<img src="../images/Healthcare screenshots/seven.png" alt="" border="3">
+<img src="../images/Healthcare screenshots/one.png" alt="main shot" border="3">
+<img src="../images/Healthcare screenshots/two.png" alt="continue registration" border="3">
+<img src="../images/Healthcare screenshots/three.png" alt="medical information" border="3">
+<img src="../images/Healthcare screenshots/four.png" alt="ID and verification" border="3">
+<img src="../images/Healthcare screenshots/five.png" alt="consent" border="3">
+<img src="../images/Healthcare screenshots/six.png" alt="new appointment" border="3">
+<img src="../images/Healthcare screenshots/seven.png" alt="success page" border="3">
+<img src="/images/Healthcare screenshots/one.png">
+
 
 
