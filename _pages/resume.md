@@ -29,9 +29,18 @@ title: resume
 </head>
 <body>
 
-<object data="projects/Amay_Michael.pdf" type="application/pdf" width="100%" height="500px">
-  <p>Your browser does not support object embedding. You can download the PDF here: <a href="projects/Amay_Michael.pdf">Download PDF</a></p>
-</object>
+    
+    <h1>Viewing a PDF Document</h1>
+
+    <div class="pdf-container">
+        <!-- The iframe element embeds the PDF -->
+        <iframe class="pdf-iframe" src="/Amay_Michael.pdf" title="Embedded PDF Document">
+            <!-- Fallback content for browsers that do not support iframes or embedding PDFs directly -->
+            Your browser does not support iframes. You can [download the PDF document](Amay_Michael.pdf) instead.
+        </iframe>
+    </div>
+
+
 
 
 </body>
