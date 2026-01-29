@@ -19,7 +19,7 @@ How to run app via the command line
 <img src="https://i.ibb.co/3MKvR5M/command-Line-Instructions.png" alt="command line" border="3">
 <img src="https://i.ibb.co/XY2y5V6/search.png" alt="search" border="3">
 <img src="https://i.ibb.co/D9frf9H/source-tweet.png" alt="source-tweet" border="3">
-<img src="https://i.ibb.co/r7Tzhqw/archive-mode.png" alt="archive-mode" border="3">
+
 
 
 

@@ -11,10 +11,9 @@ h1{
 </style>
 Skeleton was developed at Yale's University 36 hours annual hackathon, an event only by admission, and was led by developers Michael Amay, Adam Wolnikowskie, Michael Vargas, and Evan Visher. The program aims for a new and alternative method to remote GUI performance otherwise known as a Remote Desktop Application. Our program captures an image from the users screen and assigns the correct label associated with each UI element. With time this trains the model on each iteration to know exactly what each UI element is. Furthermore, with Googles Tesseract OCR a optical character recognition program, we can grab the text from each of those frames and create a JSON array which is then transmitted to the agent. Thus, eliminating the need for bitmap or video streaming as the primarily method of choice. 
 
-<a href="https://github.com/Michaelamay/Skeleton-1">View Source Code</a>;
+<a href="https://github.com/Michaelamay/Skeleton-1">View Source Code</a>
 
 <!-- Image section -->
-<!--<img src="https://i.ibb.co/mcgTnfM/Chuck-home.png" alt="Main front page" border="3">-->
 
 <img src="https://i.ibb.co/tJKfsHN/predictions.png" alt="Main front page">
 <img src="https://i.ibb.co/WWRLw14/group.jpg" alt="Team photo">

@@ -1,15 +1,15 @@
 ---
 layout: post
-title: MarsRoverPics <br><font style="color:gray"><small>Educational Science Website</small></font>
+title: NASA Astronomy Picture of the Day <br><font style="color:gray"><small>Educational Science Website</small></font>
 description: Lorem Ipsum is simply dummy text
-summary: MarsRoverPics is a website displaying captured pictures from NASA's rover exploring the planet of Mars, the third planet in our solar system.<br><br><strong>Written:</strong> HTML, CSS, Javascript, API
+summary: NASA Astronomy Picture of the Day is a website displaying pictures from NASA including planets, exoplanets, the solar system, cosmos, and more!<br><br><strong>Written:</strong> HTML, CSS, Javascript, API
 ---
 <style>
 h1{
     color: Black;
 }
 </style>
-MarsRoversPics displays live pictures taken from NASA's 2.5 billion rover currently exploring the Martian planet as part of NASA's Mars Science Laboratory mission. The car-size rover took off from planet Earth on November 26, 2011 and landed on Mars Aeolis Palus inside of Gale on August 6 2012. 
+This project uses an API from api.nasa.gov, to obtain a response in json format. It then works by retrieving the revelant image urls from the response, and displays them on the browser. API Key is needed.
 
 <a href="https://michaelamay.github.io/MarsRoversPics/">Visit website</a> &#x2022; <a href="https://github.com/Michaelamay/MarsRoversPics">View Source Code</a>
 
