@@ -24,5 +24,4 @@ Healthcare Management App is a platform where patients can easily connect, regis
 <img src="../images/Healthcare screenshots/seven.png" alt="success page" border="3">
 <img src="/images/Healthcare screenshots/one.png">
 
-
-
+<img src="/img_snowtops.jpg" alt="snow">
