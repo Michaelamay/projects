@@ -94,9 +94,11 @@ title: resume
  </style>
 </head>
 <body>
-<iframe src="/Amay_Michael.pdf" width="100%" height="500px" style="border: none;">
-  This browser does not support PDFs. Please download the PDF to view it: <a href="/Amay_Michael.pdf">Download PDF</a>
-</iframe>
+
+<object data="/Amay_Michael.pdf" type="application/pdf" width="100%" height="500px">
+  <p>Your browser does not support object embedding. You can download the PDF here: <a href="/Amay_Michael.pdf">Download PDF</a></p>
+</object>
+
 
 </body>
 
