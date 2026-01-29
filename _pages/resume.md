@@ -16,7 +16,7 @@ title: resume
             /* Optional: Style the container for better control over the iframe size */
             .pdf-container {
                 width: 100%;
-                height: 600px; /* Adjust height as needed */
+                height: 300px; /* Adjust height as needed */
                 border: 1px solid #ccc;
             }
             /* Ensure the iframe fills its container */
@@ -29,7 +29,8 @@ title: resume
 </head>
 <body>
 
-    <h1>Viewing a PDF Document</h1>
+    <h1>Viewing Michael Amay's Resume.</h1>
+    <button onclick="window.location.href="/projects/Amay_Michael.pdf" type="submit"> Download Resume</button>
 
     <div class="pdf-container">
         <!-- The iframe element embeds the PDF -->
