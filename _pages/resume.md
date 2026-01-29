@@ -13,13 +13,13 @@ title: resume
             /* Optional: Style the container for better control over the iframe size */
             .pdf-container {
                 width: 100%;
-                height: 450px; /* Adjust height as needed */
+                height: 600px; /* Adjust height as needed */
                 border: 1px solid #ccc;
             }
             /* Ensure the iframe fills its container */
             .pdf-iframe {
                 width: 100%;
-                height: 100%;
+                height: 50%;
                 border: none; /* Removes default iframe border */
             }
  </style>
@@ -27,10 +27,10 @@ title: resume
 <body>
 
     <h1>Viewing Michael Amay's Resume.</h1>
-    <a href="/projects/Amay_Michael.pdf" download="Amay_Michael.pdf">
-    Download Michael's Resume!
-    </a>
 
+    <h2>
+       <a href="/projects/Amay_Michael.pdf" download="Amay_Michael.pdf">Download</a>Michael's Resume here!
+    </h2>
 
     <div class="pdf-container">
         <!-- The iframe element embeds the PDF -->
