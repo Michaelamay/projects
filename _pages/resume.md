@@ -29,19 +29,15 @@ title: resume
 </head>
 <body>
 
-    
     <h1>Viewing a PDF Document</h1>
 
     <div class="pdf-container">
         <!-- The iframe element embeds the PDF -->
-        <iframe class="pdf-iframe" src="/Amay_Michael.pdf" title="Embedded PDF Document">
+        <iframe class="pdf-iframe" src="projects/Amay_Michael.pdf" title="Embedded PDF Document">
             <!-- Fallback content for browsers that do not support iframes or embedding PDFs directly -->
             Your browser does not support iframes. You can [download the PDF document](Amay_Michael.pdf) instead.
         </iframe>
     </div>
-
-
-
 
 </body>
 
