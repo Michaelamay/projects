@@ -104,11 +104,11 @@ title: Certs
 -->    
         <div class="box4">
             <div class="boxa">
-                <img class="display" style="border:7px solid #C19A6B;" src="/projects/AWSConcepts.png">
+                <img class="display" style="border:7px solid #C19A6B;" src="/AWSConcepts.png">
 
             </div>
             <div class="boxa">
-                <img class="display" style="border:7px solid #C19A6B;" src="/projects/Docker.png">
+                <img class="display" style="border:7px solid #C19A6B;" src="Docker.png">
 
             </div>
         </div>
