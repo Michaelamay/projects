@@ -29,12 +29,12 @@ title: resume
     <h1>Viewing Michael Amay's Resume.</h1>
 
     <h4>
-       <a href="/projects/Amay_Michael.pdf" download="Amay_Michael.pdf">Download </a>Michael's Resume here!
+       <a href="/Amay_Michael.pdf" download="Amay_Michael.pdf">Download </a>Michael's Resume here!
     </h4>
 
     <div class="pdf-container">
         <!-- The iframe element embeds the PDF -->
-        <iframe class="pdf-iframe" src="/projects/Amay_Michael.pdf" title="Embedded PDF Document">
+        <iframe class="pdf-iframe" src="/Amay_Michael.pdf" title="Embedded PDF Document">
             <!-- Fallback content for browsers that do not support iframes or embedding PDFs directly -->
             Your browser does not support iframes. You can [download the PDF document](Amay_Michael.pdf) instead.
         </iframe>
