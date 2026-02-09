@@ -116,11 +116,11 @@ title: Certs
     
         <div class="box3">
             <div class="boxa">
-                <img class="display" style="border:7px solid #C19A6B;" src="/projects/LearningRESTAPIs.png">
+                <img class="display" style="border:7px solid #C19A6B;" src="/LearningRESTAPIs.png">
 
             </div>
             <div class="boxa">
-                <img class="display" style="border:7px solid #C19A6B;" src="/projects/API_testing.png">
+                <img class="display" style="border:7px solid #C19A6B;" src="API_testing.png">
 
             </div>
         </div>
@@ -129,39 +129,39 @@ title: Certs
 
         <div class="box2">
             <div class="boxa">
-                <img class="display" style="border:7px solid #C19A6B;" src="/projects/Jenkins.png">
+                <img class="display" style="border:7px solid #C19A6B;" src="/Jenkins.png">
             </div>
 
             <div class="boxa">
-                <img class="display" style="border:7px solid #C19A6B;" src="/projects/Agile_foundations.png">
+                <img class="display" style="border:7px solid #C19A6B;" src="Agile_foundations.png">
             </div>
         </div>
 
         <div class="box0">
             <div class="boxa">
-                <img class="display" style="border:7px solid #C19A6B;" src="/projects/AgileManagement.png">
+                <img class="display" style="border:7px solid #C19A6B;" src="/AgileManagement.png">
             </div>
             <div class="boxa">
-                <img class="display" style="border:7px solid #C19A6B;" src="/projects/Angular.png">
+                <img class="display" style="border:7px solid #C19A6B;" src="Angular.png">
             </div>
         </div>
 
 
         <div class="box1">
             <div class="boxa">
-                <img class="display" style="border:7px solid #C19A6B;" src="/projects/RPA.png">
+                <img class="display" style="border:7px solid #C19A6B;" src="/RPA.png">
             </div>
             <div class="boxa">
-                <img class="display" style="border:7px solid #C19A6B;" src="/projects/Udemy_webstore.png">
+                <img class="display" style="border:7px solid #C19A6B;" src="Udemy_webstore.png">
             </div>
         </div>
 
         <div class="outterBox">
             <div class="littleBox">
-                <img class="display" style="height:450px; width: 550px; border:7px solid #C19A6B;" src="/projects/Coursera_deeplearning.png">
+                <img class="display" style="height:450px; width: 550px; border:7px solid #C19A6B;" src="/Coursera_deeplearning.png">
             </div>
             <div class="littleBox">
-                <img class="display" style="height:450px; width: 550px; border:7px solid #C19A6B;" src="/projects/RPA_foundationTraining.png">
+                <img class="display" style="height:450px; width: 550px; border:7px solid #C19A6B;" src="RPA_foundationTraining.png">
             </div>
         </div>
     </body>
