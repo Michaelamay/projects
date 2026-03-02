@@ -26,13 +26,24 @@ title: Availability
             width: 49px;
             float: right;
         }
+        .flex-container {
+            display: flex;
+            justify-content: center; /* Centers horizontally */
+            align-items: center;     /* Centers vertically */
+            height: 100vh;           /* Example: takes up full viewport height */
+}
+
     </style>
 </head>
 <body>
    <!-- <h1>Michael Amay's Availability</h1> -->
     <hr>
     <h4>Interviewers and recruiters can see my schedule and availability <strong><a href="https://calendly.com/michaelamay1/30min">here</a></strong> and even schedule a call directly!<span class="minor-font"> (Include any essential contact information including telephone number or Zoom/Teams meeting link)</span></h4>    
-
+    <div class="flex-container">
+        <img src="calendarpng.png" alt="Centered image">
+        <img src="/calendarpng.png" alt="Centered image">
+        <img src="/_pages/calendarpng.png" alt="Centered image">
+    /div>
 </body>
 </html>
 
