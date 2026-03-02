@@ -31,7 +31,7 @@ title: Availability
 <body>
    <!-- <h1>Michael Amay's Availability</h1> -->
     <hr>
-    <h3>Interviewers and recruiters can see my schedule and availability <a href="https://calendly.com/michaelamay1/30min">here</a> and even schedule a call directly!<span class="minor-font">(Include any essential contact information including telephone number or Zoom/Teams meeting link)</span></h3>    
+    <h4>Interviewers and recruiters can see my schedule and availability <strong><a href="https://calendly.com/michaelamay1/30min">here</a></strong> and even schedule a call directly!<span class="minor-font"> (Include any essential contact information including telephone number or Zoom/Teams meeting link)</span></h4>    
 
 </body>
 </html>
