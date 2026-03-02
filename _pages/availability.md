@@ -2,7 +2,7 @@
 layout: page
 title: Availability
 ---
-## Teaching
+## Michael Amay's Availability
 <html>
 <head>
     <style>
@@ -29,15 +29,10 @@ title: Availability
     </style>
 </head>
 <body>
-    <h1>Michael Amay's Availability</h1>
-    <h2>Michael Amay's Availability</h2>
+   <!-- <h1>Michael Amay's Availability</h1> -->
     <hr>
-    <h3>Interviewers and recruiters see my schedule and availability<a href="https://calendly.com/michaelamay1/30min">here</a> and schedule a call directly!</h3>
+    <h3>Interviewers and recruiters can see my schedule and availability <a href="https://calendly.com/michaelamay1/30min">here</a> and even schedule a call directly!<span class="minor-font">(Include any essential contact information including telephone number or Zoom/Teams meeting link)</span></h3>    
 
-    <div class="box1">
-        <h4>Interviewers and recruiters see my schedule and availability<a href="https://calendly.com/michaelamay1/30min"> here </a> and schedule a call directly!</h4>
-    </div>    
-    
 </body>
 </html>
 
