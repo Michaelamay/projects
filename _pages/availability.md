@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Availability
 ---
 ## Teaching
 <html>
@@ -29,18 +29,13 @@ title: About
     </style>
 </head>
 <body>
-    <!-- <h2>Teaching</h2> -->
+    <h1>Michael Amay's Availability</h1>
+    <h2>Michael Amay's Availability</h2>
     <hr>
+    <h3>Interviewers and recruiters see my schedule and availability<a href="https://calendly.com/michaelamay1/30min">here</a> and schedule a call directly!</h3>
+
     <div class="box1">
-        <a href="/projects/Reflection_paper.pdf">Air Force Academy TA Reflection </a>
-        <br>
-        <span class="minor-font">June 06 2019, Tech Partnership in Urban schools, DePaul University</span>
-        <br>
-        <br>
-        <a href="/projects/TutoringChicago_Reflection.pdf">The Powerful Impact of Volunteer Tutoring At CPS Schools</a>
-        <br>
-        <span class="minor-font">April 25 2019, Tutoring Chicago, Tepeyac - DePaul University</span>
-        <br>
+        <h4>Interviewers and recruiters see my schedule and availability<a href="https://calendly.com/michaelamay1/30min"> here </a> and schedule a call directly!</h4>
     </div>    
     
 </body>
