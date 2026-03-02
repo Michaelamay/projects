@@ -29,7 +29,7 @@ title: resume
     <h1>Viewing Michael Amay's Resume.</h1>
 
     <h4>
-       <a href="/Amay_Michael.pdf" download="Amay_Michael.pdf">Download </a>Michael's Resume here!
+       Download Michael Amay's Resume <a href="/Amay_Michael.pdf" download="Amay_Michael.pdf">here! </a>
     </h4>
 
     <div class="pdf-container">
