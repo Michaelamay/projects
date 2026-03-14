@@ -31,21 +31,20 @@ title: Companies
 <body>
    <!-- <h1>Michael Amay's Availability</h1> -->
     <hr>
-    <title>Echo Global Logistics</title>
+    <strong>Echo Global Logistics</strong>
     <h2>Rated #1 Third-Party-Logistic providers 10 Years In a Row!</h2>
     <h3>
-    Echo Global Logistics is a transportation management technology company that connects businesses needing to ship freight with a network of carriers that move goods across the country. Through its digital logistics platform, Echo helps streamline the process of quoting, booking, tracking, and managing shipments.
+    Echo Global Logistics is a transportation management technology company that connects businesses needing to ship freight with a network of carriers that move goods across the country. Through its digital logistics platform, Echo helps streamline the process of quoting, booking, tracking, and managing shipments.</h3>
     <br>
-    Echo offers three flagship products—EchoDrive, EchoShip, and EchoTrak—each designed to simplify different parts of the shipping and carrier experience.
+    <h3>Echo offers three flagship products—EchoDrive, EchoShip, and EchoTrak—each designed to simplify different parts of the shipping and carrier experience.</h3>
     <br>
-    <b>EchoDrive</b> is a web-based portal built for carriers. The platform allows dispatchers, owner-operators, and drivers to search for loads, submit bids, book shipments, manage assignments, track freight, and receive payments—all in one easy-to-use interface. With built-in real-time tracking, EchoDrive reduces the need for manual check-in calls and helps carriers manage loads more efficiently.
+    <h3><b>EchoDrive</b> is a web-based portal built for carriers. The platform allows dispatchers, owner-operators, and drivers to search for loads, submit bids, book shipments, manage assignments, track freight, and receive payments—all in one easy-to-use interface. With built-in real-time tracking, EchoDrive reduces the need for manual check-in calls and helps carriers manage loads more efficiently.</h3>
     <br>
-    <b>EchoShip<b> is a self-service shipping platform designed for businesses that need to move freight. It enables users to quickly generate quotes, compare carriers by cost, transit time, coverage, and service level, book shipments, track deliveries, manage invoices, and oversee their entire shipping process from a single dashboard.
+    <h3><b>EchoShip<b> is a self-service shipping platform designed for businesses that need to move freight. It enables users to quickly generate quotes, compare carriers by cost, transit time, coverage, and service level, book shipments, track deliveries, manage invoices, and oversee their entire shipping process from a single dashboard.</h3>
     <br>
-    <b>EchoTrak<b> is Echo’s mobile application that provides shippers with logistics visibility and control while on the go. The app allows users to track shipments, manage logistics activity, and access real-time shipment data directly from their mobile devices.
+    <h3><b>EchoTrak<b> is Echo’s mobile application that provides shippers with logistics visibility and control while on the go. The app allows users to track shipments, manage logistics activity, and access real-time shipment data directly from their mobile devices.</h3>
     <br>
-    Together, these platforms create a connected logistics ecosystem that improves transparency, efficiency, and collaboration between shippers and carriers.
-    </h3>
+    <h3>Together, these platforms create a connected logistics ecosystem that improves transparency, efficiency, and collaboration between shippers and carriers.</h3>
     <br>
     <h2>Fidelity Information Services</h2>
     <h3> </h3>
