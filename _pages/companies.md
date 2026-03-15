@@ -32,6 +32,7 @@ title: Companies
     <hr>
     <h2><strong>Echo Global Logistics</strong></h2>
     <small><i>Industry: Transportation Management System /Logistics</i></small>
+    <p></p>
     <small>(Rated the #1 Third-Party-Logistic provider 10 Years In a Row!)</small>
     <p></p>
     Echo Global Logistics is a transportation management technology company that connects businesses needing to ship freight with a network of carriers that move goods across the country. Through its digital logistics platform, Echo helps streamline the process of quoting, booking, tracking, and managing shipments.Echo offers three flagship products—<b>EchoDrive, EchoShip, and EchoTrak</b>—each designed to simplify different parts of the shipping and carrier experience.
@@ -46,6 +47,8 @@ title: Companies
     <p></p>
     <p></p>
     <h2><strong>Fidelity Information Services</strong></h2>
+    <small><i>Industry: Financial Technology</i></small>
+    <p></p>
     <small>(FIS works with 95% of the worlds leading banks! In 2019, FIS became the largest payment company in the world. )</small>
     <p></p>
     <b>Fidelity Information Services</b> is a global financial technology company that provides a broad range of solutions supporting the world’s financial ecosystem. Its offerings include <b>Merchant Solutions, Banking Solutions, and Capital Markets Solutions</b>, which help businesses, banks, and financial institutions operate more efficiently. Through its technology platforms, FIS plays a key role in advancing the digital transformation of the financial economy—enhancing how the world pays, banks, and invests.
@@ -56,6 +59,8 @@ title: Companies
     <p></p>
     <p></p>
     <h2><strong>BlueCross BlueShield of Illinois</strong></h2>
+    <small><i>Industry: Healthcare</i></small>
+    <p></p>
     <small>(1 in 3 americans are covered by BlueCross BlueShield.)</small>
     <p></p>
     <b>Blue Cross Blue Shield Association</b> is one of the largest health insurance networks in the United States, providing coverage to more than <b>115 million people nationwide.</b> The BCBS system consists of 33 independent, community-based, and locally operated health insurance companies that collectively deliver healthcare coverage across the country.
