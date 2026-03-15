@@ -30,7 +30,7 @@ title: Companies
 </head>
 <body>
     <hr>
-    <h3><strong>Echo Global Logistics</strong></h3>
+    <h2><strong>Echo Global Logistics</strong></h2>
     <small>(Rated #1 Third-Party-Logistic providers 10 Years In a Row!)</small>
     <p></p>
     Echo Global Logistics is a transportation management technology company that connects businesses needing to ship freight with a network of carriers that move goods across the country. Through its digital logistics platform, Echo helps streamline the process of quoting, booking, tracking, and managing shipments.Echo offers three flagship products—EchoDrive, EchoShip, and EchoTrak—each designed to simplify different parts of the shipping and carrier experience.
@@ -44,7 +44,7 @@ title: Companies
     Together, these platforms create a connected logistics ecosystem that improves transparency, efficiency, and collaboration between shippers and carriers.
     <p></p>
     <p></p>
-    <h3><strong>Fidelity Information Services</strong></h3>
+    <h2><strong>Fidelity Information Services</strong></h2>
     <small>(FIS works with 95% of the worlds leading banks! In 2019, FIS became the largest payment company in the world. )</small>
     <p></p>
     <b>Fidelity Information Services</b> is a global financial technology company that provides a broad range of solutions supporting the world’s financial ecosystem. Its offerings include <b>Merchant Solutions, Banking Solutions, and Capital Markets Solutions</b>, which help businesses, banks, and financial institutions operate more efficiently. Through its technology platforms, FIS plays a key role in advancing the digital transformation of the financial economy—enhancing how the world pays, banks, and invests.
@@ -54,7 +54,7 @@ title: Companies
     <b>InvestOne</b> (formerly known as <b>FIS Investment Accounting Manager</b>). InvestOne is a comprehensive <b>SaaS-based investment accounting and administration platform</b> designed for asset managers, custodian banks, and insurance companies. The platform enables organizations to process complex portfolio accounting in real time while serving as a centralized system of record for transaction data. It supports a wide range of investment types and helps automate accounting workflows, improving accuracy, efficiency, and reporting across investment operations.
     <p></p>
     <p></p>
-    <h3><strong>BlueCross BlueShield of Illinois</strong></h3>
+    <h2><strong>BlueCross BlueShield of Illinois</strong></h2>
     <small>(1 in 3 americans are covered by BlueCross BlueShield.)</small>
     <p></p>
     <b>Blue Cross Blue Shield Association</b> is one of the largest health insurance networks in the United States, providing coverage to more than <b>115 million people nationwide.</b> The BCBS system consists of 33 independent, community-based, and locally operated health insurance companies that collectively deliver healthcare coverage across the country.
