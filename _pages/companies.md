@@ -31,9 +31,9 @@ title: Companies
 <body>
     <hr>
     <h2><strong>Echo Global Logistics</strong></h2>
-    <small>(Rated #1 Third-Party-Logistic providers 10 Years In a Row!)</small>
+    <small>(Rated the #1 Third-Party-Logistic provider 10 Years In a Row!)</small>
     <p></p>
-    Echo Global Logistics is a transportation management technology company that connects businesses needing to ship freight with a network of carriers that move goods across the country. Through its digital logistics platform, Echo helps streamline the process of quoting, booking, tracking, and managing shipments.Echo offers three flagship products—EchoDrive, EchoShip, and EchoTrak—each designed to simplify different parts of the shipping and carrier experience.
+    Echo Global Logistics is a transportation management technology company that connects businesses needing to ship freight with a network of carriers that move goods across the country. Through its digital logistics platform, Echo helps streamline the process of quoting, booking, tracking, and managing shipments.Echo offers three flagship products—<b>EchoDrive, EchoShip, and EchoTrak</b>—each designed to simplify different parts of the shipping and carrier experience.
     <p></p>
     <b>EchoDrive</b> is a web-based portal built for carriers. The platform allows dispatchers, owner-operators, and drivers to search for loads, submit bids, book shipments, manage assignments, track freight, and receive payments—all in one easy-to-use interface. With built-in real-time tracking, EchoDrive reduces the need for manual check-in calls and helps carriers manage loads more efficiently.
     <p></p>
