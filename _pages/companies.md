@@ -46,9 +46,17 @@ title: Companies
     <p></p>
     Together, these platforms create a connected logistics ecosystem that improves transparency, efficiency, and collaboration between shippers and carriers.
     <br>
-    <h2>Fidelity Information Services</h2>
+    <h3><strong>Fidelity Information Services</strong></h3>
+    <p></p>
+    <small>(FIS works with 95% of the worlds leading banks! In 2019, FIS became the largest payment company in the world. )</small>
+    <p></p>
+    <b>Fidelity National Information Services (FIS)</b> is a global financial technology company that provides a broad range of solutions supporting the world’s financial ecosystem. Its offerings include <b>Merchant Solutions, Banking Solutions, and Capital Markets Solutions</b>, which help businesses, banks, and financial institutions operate more efficiently. Through its technology platforms, FIS plays a key role in advancing the digital transformation of the financial economy—enhancing how the world pays, banks, and invests.
+    <p></p>
+    The <b>Capital Markets</b> division focuses on solutions that support <b>risk management, private equity accounting, and regulatory compliance</b> for financial institutions. More broadly, capital markets refer to the systems and venues where funds are exchanged between those who supply capital and those who need it. Suppliers of capital typically include banks and investors, while those seeking capital may include businesses, governments, and individuals. These exchanges occur through financial instruments such as equity securities, bonds, and other financial assets.
+    <p></p>
+    <b>InvestOne</b> (formerly known as <b>FIS Investment Accounting Manager</b>). InvestOne is a comprehensive <b>SaaS-based investment accounting and administration platform</b> designed for asset managers, custodian banks, and insurance companies. The platform enables organizations to process complex portfolio accounting in real time while serving as a centralized system of record for transaction data. It supports a wide range of investment types and helps automate accounting workflows, improving accuracy, efficiency, and reporting across investment operations.
     <br>
-    <h1>BlueCross BlueShield of Illinois</h1>
+    <h3>BlueCross BlueShield of Illinois</h3>
 </body>
 </html>
 <br>
