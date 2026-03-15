@@ -30,13 +30,11 @@ title: Companies
 </head>
 <body>
     <hr>
-    <strong>Echo Global Logistics</strong>
+    <h3><strong>Echo Global Logistics</strong></h3>
     <p></p>
     <small>(Rated #1 Third-Party-Logistic providers 10 Years In a Row!)</small>
     <p></p>
-    Echo Global Logistics is a transportation management technology company that connects businesses needing to ship freight with a network of carriers that move goods across the country. Through its digital logistics platform, Echo helps streamline the process of quoting, booking, tracking, and managing shipments.
-    <p></p>
-    Echo offers three flagship products—EchoDrive, EchoShip, and EchoTrak—each designed to simplify different parts of the shipping and carrier experience.
+    Echo Global Logistics is a transportation management technology company that connects businesses needing to ship freight with a network of carriers that move goods across the country. Through its digital logistics platform, Echo helps streamline the process of quoting, booking, tracking, and managing shipments.Echo offers three flagship products—EchoDrive, EchoShip, and EchoTrak—each designed to simplify different parts of the shipping and carrier experience.
     <p></p>
     <b>EchoDrive</b> is a web-based portal built for carriers. The platform allows dispatchers, owner-operators, and drivers to search for loads, submit bids, book shipments, manage assignments, track freight, and receive payments—all in one easy-to-use interface. With built-in real-time tracking, EchoDrive reduces the need for manual check-in calls and helps carriers manage loads more efficiently.
     <p></p>
@@ -47,7 +45,6 @@ title: Companies
     Together, these platforms create a connected logistics ecosystem that improves transparency, efficiency, and collaboration between shippers and carriers.
     <br>
     <h3><strong>Fidelity Information Services</strong></h3>
-    <p></p>
     <small>(FIS works with 95% of the worlds leading banks! In 2019, FIS became the largest payment company in the world. )</small>
     <p></p>
     <b>Fidelity National Information Services (FIS)</b> is a global financial technology company that provides a broad range of solutions supporting the world’s financial ecosystem. Its offerings include <b>Merchant Solutions, Banking Solutions, and Capital Markets Solutions</b>, which help businesses, banks, and financial institutions operate more efficiently. Through its technology platforms, FIS plays a key role in advancing the digital transformation of the financial economy—enhancing how the world pays, banks, and invests.
