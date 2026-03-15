@@ -31,6 +31,7 @@ title: Companies
 <body>
     <hr>
     <h2><strong>Echo Global Logistics</strong></h2>
+    <small><i>Industry: Transportation Management System /Logistics</i></small>
     <small>(Rated the #1 Third-Party-Logistic provider 10 Years In a Row!)</small>
     <p></p>
     Echo Global Logistics is a transportation management technology company that connects businesses needing to ship freight with a network of carriers that move goods across the country. Through its digital logistics platform, Echo helps streamline the process of quoting, booking, tracking, and managing shipments.Echo offers three flagship products—<b>EchoDrive, EchoShip, and EchoTrak</b>—each designed to simplify different parts of the shipping and carrier experience.
