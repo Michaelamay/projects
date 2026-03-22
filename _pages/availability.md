@@ -39,7 +39,9 @@ title: Availability
    <!-- <h1>Michael Amay's Availability</h1> -->
     <hr>
     <h4>Interviewers and recruiters can see my schedule and availability <strong><a href="https://calendly.com/michaelamay1/30min">here</a></strong> and even schedule a call directly!<span class="minor-font"> (Include any essential contact information including telephone number or Zoom/Teams meeting link)</span></h4>    
-    <img src="calendarpng2.png" alt="Centered image">
+    <div class="calendly-inline-widget" data-url="https://calendly.com/michaelamay1/30min" style="min-width:320px;height:700px;"></div>
+    <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+    <!-- Calendly inline widget end -->
 </body>
 </html>
 <br>
