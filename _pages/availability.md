@@ -6,33 +6,10 @@ title: Availability
 <html>
 <head>
     <style>
-        .box1 {
-            position: absolute;
-            height: 100px;
-            font-size: 20px;
-            font-weight: 800;
-        }
-        .minor-font {
-            font-size: 14px;
-            color: gray;
-        }
-        .box2 {
-            position: relative;
-            margin-right: 700px;
-        }
-        .display {
-            background-color: skyblue;
-            border: 1px solid gray;
-            width: 49px;
-            float: right;
-        }
-        .flex-container {
-            display: flex;
-            justify-content: center; /* Centers horizontally */
-            align-items: center;     /* Centers vertically */
-            height: 100vh;           /* Example: takes up full viewport height */
-}
-
+    	main {
+    		margin: 0 auto;
+    		max-width: 76rem !important;
+    	}
     </style>
 </head>
 <body>
