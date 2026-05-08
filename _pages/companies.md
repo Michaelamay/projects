@@ -38,15 +38,11 @@ title: Companies
     <p></p>
     Echo Global Logistics is a transportation management technology company that connects businesses needing to ship freight with a network of carriers that move goods across the country. Through its digital logistics platform, Echo helps streamline the process of quoting, booking, tracking, and managing shipments. Echo offers three flagship products—<span style="font-weight:525;">EchoDrive, EchoShip, and EchoTrak</span>—each designed to simplify different parts of the shipping and carrier experience.
     <p></p>
-    <span style="font-weight:525;">EchoDrive</span> is a web-based portal built for carriers. The platform allows dispatchers, owner-operators, and drivers to search for loads, submit bids, book shipments, manage assignments, track freight, and receive payments—all in one easy-to-use interface. With built-in real-time tracking, EchoDrive reduces the need for manual check-in calls and helps carriers manage loads more efficiently.
-    <p></p>
-    <span style="font-weight:525;">EchoShip</span> is a self-service shipping platform designed for businesses that need to move freight. It enables users to quickly generate quotes, compare carriers by cost, transit time, coverage, and service level, book shipments, track deliveries, manage invoices, and oversee their entire shipping process from a single dashboard.
-    <p></p>
-    <span style="font-weight:525;">EchoTrak</span> is Echo’s mobile application that provides shippers with logistics visibility and control while on the go. The app allows users to track shipments, manage logistics activity, and access real-time shipment data directly from their mobile devices.
+    <span style="font-weight:525;">EchoDrive</span> is a web-based portal built for carriers. The platform allows dispatchers, owner-operators, and drivers to search for loads, submit bids, book shipments, manage assignments, track freight, and receive payments—all in one easy-to-use interface. With built-in real-time tracking, EchoDrive reduces the need for manual check-in calls and helps carriers manage loads more efficiently.<span style="font-weight:525;">EchoShip</span> is a self-service shipping platform designed for businesses that need to move freight. It enables users to quickly generate quotes, compare carriers by cost, transit time, coverage, and service level, book shipments, track deliveries, manage invoices, and oversee their entire shipping process from a single dashboard.<span style="font-weight:525;">EchoTrak</span> is Echo’s mobile application that provides shippers with logistics visibility and control while on the go. The app allows users to track shipments, manage logistics activity, and access real-time shipment data directly from their mobile devices.
     <p></p>
     Together, these platforms create a connected logistics ecosystem that improves transparency, efficiency, and collaboration between shippers and carriers.
     <p></p>
-    <span style="font-weight:600;">Accomplishments and Summary</span>
+    <span style="font-weight:700;">Accomplishments and Summary</span>
     <p></p>
     Part of an 8-member team responsible for owning and enhancing 2 microservices within an event-driven, publish-subscribe architecture supporting the full shipment lifecycle, including the Shipment Tracking Service and Notification Service. Leveraged Kafka publisher-subscribe topics such as “Booked,” “In Transit,” “Arrived,” and “Delivered” to enable multiple downstream services to independently process shipment tracking, ETA calculation, and notification events.
     <p></p>
@@ -84,7 +80,7 @@ title: Companies
     <p></p>
     Managed AWS cloud infrastructure utilizing EC2 and RDS to support scalable backend processing, and relational database management. Managed source control and collaborative development workflows through Git and integrated CI/CD pipelines using Jenkins to automate builds, unit testing, deployments, and release management.
     <p></p>
-    <span style="font-weight:550;margin: 0;">Other Responsibilities:</span>
+    <span style="font-weight:550;">Other Responsibilities:</span>
     <p></p>
     Developed automated unit testing suites using JUnit and Mockito to validate event-processing workflows prior to deployment, improving application stability and reducing production defects.
     <p></p>
@@ -98,9 +94,9 @@ title: Companies
     <p></p>
     BCBS companies offer a wide range of health insurance plans, including <span style="font-weight:525;">individual and family coverage, employer-sponsored plans, Medicare and Medicaid options, and plans available through the Affordable Care Act marketplace.</span> Through their extensive national network of doctors, hospitals, and healthcare providers, BCBS organizations provide members with broad access to medical care while maintaining a strong focus on local service and community-based support.
     <p></p>
-    Together, the BCBS network combines national reach with locally tailored healthcare solutions, helping millions of Americans access affordable and reliable health coverage.
+    The BCBS network combines national reach with locally tailored healthcare solutions, helping millions of Americans access affordable and reliable health coverage.
     <p></p>
-    <span style="font-weight:600;">Accomplishments and Summary</span>
+    <span style="font-weight:700;">Accomplishments and Summary</span>
     <p></p>
     Worked on an Open Enrollment Automation platform designed to streamline member enrollment, eligibility verification, policy updates, and document processing, with the objective of reducing manual operations and supporting millions of healthcare transactions during peak enrollment periods.
     <p></p>
@@ -108,7 +104,7 @@ title: Companies
     <p></p>
     Utilized OCR technology to automate healthcare document processing by extracting data from uploaded insurance forms and identification documents. Integrated AI/ML models into enrollment workflows to classify documents, validate enrollment information, and detect incomplete submissions before policy finalization.
     <p></p>
-    <span style="font-weight:550;margin: 1;">Other Responsibilities:</span>
+    <span style="font-weight:550;">Other Responsibilities:</span>
     <p></p>
     Utilized an event-driven architecture to process enrollment requests asynchronously through queue-based workflows. Published and consumed enrollment lifecycle events such as “Application Submitted,” “Eligibility Verified,” “Policy Approved,” and “Enrollment Completed,” enabling scalable, decoupled communication.
     <p></p>
