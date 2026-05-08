@@ -38,7 +38,7 @@ title: Companies
     <p></p>
     Echo Global Logistics is a transportation management technology company that connects businesses needing to ship freight with a network of carriers that move goods across the country. Through its digital logistics platform, Echo helps streamline the process of quoting, booking, tracking, and managing shipments. Echo offers three flagship products—<span style="font-weight:525;">EchoDrive, EchoShip, and EchoTrak</span>—each designed to simplify different parts of the shipping and carrier experience.
     <p></p>
-    <span style="font-weight:525;">EchoDrive</span> is a web-based portal built for carriers. The platform allows dispatchers, owner-operators, and drivers to search for loads, submit bids, book shipments, manage assignments, track freight, and receive payments—all in one easy-to-use interface. With built-in real-time tracking, EchoDrive reduces the need for manual check-in calls and helps carriers manage loads more efficiently.<span style="font-weight:525;">EchoShip</span> is a self-service shipping platform designed for businesses that need to move freight. It enables users to quickly generate quotes, compare carriers by cost, transit time, coverage, and service level, book shipments, track deliveries, manage invoices, and oversee their entire shipping process from a single dashboard.<span style="font-weight:525;">EchoTrak</span> is Echo’s mobile application that provides shippers with logistics visibility and control while on the go. The app allows users to track shipments, manage logistics activity, and access real-time shipment data directly from their mobile devices.
+    <span style="font-weight:525;">EchoDrive</span> is a web-based portal built for carriers. The platform allows dispatchers, owner-operators, and drivers to search for loads, submit bids, book shipments, manage assignments, track freight, and receive payments—all in one easy-to-use interface. With built-in real-time tracking, EchoDrive reduces the need for manual check-in calls and helps carriers manage loads more efficiently.<span style="font-weight:525;"> EchoShip</span> is a self-service shipping platform designed for businesses that need to move freight. It enables users to quickly generate quotes, compare carriers by cost, transit time, coverage, and service level, book shipments, track deliveries, manage invoices, and oversee their entire shipping process from a single dashboard.<span style="font-weight:525;"> EchoTrak</span> is Echo’s mobile application that provides shippers with logistics visibility and control while on the go. The app allows users to track shipments, manage logistics activity, and access real-time shipment data directly from their mobile devices.
     <p></p>
     Together, these platforms create a connected logistics ecosystem that improves transparency, efficiency, and collaboration between shippers and carriers.
     <p></p>
@@ -59,6 +59,10 @@ title: Companies
     Implemented multithreading strategies to process shipment events and ETA calculations concurrently, reducing high latency. 
     <p></p>
     Tested AI-driven libraries to make ETA predication models and analyze historical shipment patterns, traffic conditions, and carrier performance to generate more accurate delivery estimates. 
+    <p></p>
+    <span style="font-weight:550;">Technologies and Tools Used:</span>
+    <p></p>
+    Java, Amazon Simple Notification Service (SNS), microservices, Kafka, RabbitMQ, testing suites, Docker, Kubernetes, CI/CD, SQL, relational databases, non-relational databases, APIs, multithreading, AI libraries, Jenkins, Elasticsearch, publish-subscribe architecture, event-driven systems.
     <p></p>
     <p></p>
     <h2 style="margin: 0;"><strong>Fidelity Information Services</strong></h2>
@@ -85,6 +89,9 @@ title: Companies
     Developed automated unit testing suites using JUnit and Mockito to validate event-processing workflows prior to deployment, improving application stability and reducing production defects.
     <p></p>
     Incorporated multithreading strategies in Java to parallelize calculations across multiple portfolios simultaneously.
+    <span style="font-weight:550;">Technologies and Tools Used:</span>
+    <p></p>
+    Java, Spring Boot, microservices, asynchronous event-driven workflows, Kafka, RabbitMQ, relational SQL database, Docker, AWS EC2, AWS RDS, Kubernetes, CI/CD pipelines, unit testing, deployments, Git, multithreading strategies. 
     <p></p>
     <p></p>
     <h2 style="margin: 0;"><strong>BlueCross BlueShield of IL, MT, NM, OK & TX - HCSC</strong></h2>
@@ -113,5 +120,8 @@ title: Companies
     Developed RESTful APIs used to communication with third-part provider systems.
     <p></p>
     Utilized Azure for application deployment.
+    <span style="font-weight:550;">Technologies and Tools Used:</span>
+    <p></p>
+    Python, C#, microservices, distributed systems, automation, OCR, AI/ML, SQL, RESTful APIs.
 </body>
 </html>
