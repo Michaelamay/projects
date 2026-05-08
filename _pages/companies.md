@@ -5,6 +5,7 @@ title: Companies
 ## Companies
 <html>
 <head>
+    <script src="https://kit.fontawesome.com/6cddb4e091.js" crossorigin="anonymous"></script>
     <style>
         main {
                 margin: 0 auto;
