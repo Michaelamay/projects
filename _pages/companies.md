@@ -26,6 +26,9 @@ title: Companies
             align-items: center;     /* Centers vertically */
             height: 100vh;           /* Example: takes up full viewport height */
         }
+        h5 {
+            font-weight: 500;
+        }
     </style>
 </head>
 <body>
@@ -44,6 +47,24 @@ title: Companies
     <b>EchoTrak</b> is Echo’s mobile application that provides shippers with logistics visibility and control while on the go. The app allows users to track shipments, manage logistics activity, and access real-time shipment data directly from their mobile devices.
     <p></p>
     Together, these platforms create a connected logistics ecosystem that improves transparency, efficiency, and collaboration between shippers and carriers.
+    <p></p>
+    <h5>Accomplishments and Summary</h5>
+    <p></p>
+    Part of an 8-member team responsible for owning and enhancing 2 microservices within an event-driven, publish-subscribe architecture supporting the full shipment lifecycle, including the Shipment Tracking Service and Notification Service. Leveraged Kafka publisher-subscribe topics such as “Booked,” “In Transit,” “Arrived,” and “Delivered” to enable multiple downstream services to independently process shipment tracking, ETA calculation, and notification events.
+    <p></p>
+    Supported customer communication and event fan-out by integrating Amazon Simple Notification Service (SNS) into the platform. Enabled Kafka consumers to process shipment events and publish targeted notifications to SNS topics, distributing updates across SQS queues, AWS Lambda functions, and mobile push notification services. Utilized RabbitMQ to support asynchronous processing and background task management; once delivery event were confirmed, messages were queued to trigger downstream workflows and customer notification services.
+    <p></p>
+    Developed automated unit testing suites using JUnit and Mockito to validate event-processing workflows, business logic, and API behavior prior to deployment. Utilized Docker containers for application deployment and Kubernetes for orchestration, enabling horizontal scaling of microservices during peak shipping periods. Configured Kubernetes to improve resiliency through automatic container restarts and workload balancing across nodes. Managed source control and CI/CD workflows using Git and Jenkins, enabling automated builds, deployments, and rollback strategies across dev and prod environments.
+    <p></p>
+    Utilized both relational and non-relational databases based on application use cases. Utilized relational databases to store shipment transactions and order records and developed optimized SQL queries, joins, and indexing strategies to improve data retrieval performance. Utilized non-relational database for high-volume tracking events, enabling flexible schema design and rapid scalability. Also integrated Elasticsearch into the platform to enhance search performance by indexing shipment events, tracking logs, and API activity, enabling operations teams and customers to quickly search shipments by tracking number, carrier, location, or status.
+    <p></p>
+    <small>Other Responsibilities:</small>
+    <p></p>
+    Develop RESTful APIs used by internal systems, carrier integrations, and customer facing apps like EchoShip and EchoTrak’s mobile app. 
+    <p></p>
+    Implemented multithreading strategies to process shipment events and ETA calculations concurrently, reducing high latency. 
+    <p></p>
+    Tested AI-driven libraries to make ETA predication models and analyze historical shipment patterns, traffic conditions, and carrier performance to generate more accurate delivery estimates. 
     <p></p>
     <p></p>
     <h2><strong>Fidelity Information Services</strong></h2>
