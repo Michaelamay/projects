@@ -32,13 +32,8 @@ title: Companies
     </style>
 </head>
 <body>
-    <header>
-        <nav>
-        <a href="#fidelity"> Go to Fidelity</a>
-        </nav>
-    </header>
     <hr>
-    <h2 style="margin: 0;"><strong>Echo Global Logistics</strong></h2>
+    <h2 id="echo" style="margin: 0;"><strong>Echo Global Logistics</strong></h2>
     <small>Industry: Transportation Management System /Logistics - (Rated the #1 Third-Party-Logistic provider 10 Years In a Row!)</small>
     <p></p>
     Echo Global Logistics is a transportation management technology company that connects businesses needing to ship freight with a network of carriers that move goods across the country. Through its digital logistics platform, Echo helps streamline the process of quoting, booking, tracking, and managing shipments. Echo offers three flagship products—<span style="font-weight:525;">EchoDrive, EchoShip, and EchoTrak</span>—each designed to simplify different parts of the shipping and carrier experience.
@@ -98,7 +93,7 @@ title: Companies
     Java, Spring Boot, microservices, asynchronous event-driven workflows, Kafka, RabbitMQ, relational SQL database, Docker, AWS EC2, AWS RDS, Kubernetes, CI/CD pipelines, unit testing, deployments, Git, multithreading strategies. 
     <p></p>
     <p></p>
-    <h2 style="margin: 0;"><strong>BlueCross BlueShield of IL, MT, NM, OK & TX - HCSC</strong></h2>
+    <h2 id="bcbs" style="margin: 0;"><strong>BlueCross BlueShield of IL, MT, NM, OK & TX - HCSC</strong></h2>
     <small>Industry: Healthcare - (1 in 3 americans are covered by BlueCross BlueShield.)</small>
     <p></p>
     <span style="font-weight:525;">Blue Cross Blue Shield Association</span> is one of the largest health insurance networks in the United States, providing coverage to more than <span style="font-weight:525;">115 million people nationwide.</span> The BCBS system consists of 33 independent, community-based, and locally operated health insurance companies that collectively deliver healthcare coverage across the country.
