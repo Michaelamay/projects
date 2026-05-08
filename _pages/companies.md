@@ -32,6 +32,11 @@ title: Companies
     </style>
 </head>
 <body>
+    <header>
+        <nav>
+        <a href="fidelity"> Go to Fidelity</a>
+        </nav>
+    </header>
     <hr>
     <h2 style="margin: 0;"><strong>Echo Global Logistics</strong></h2>
     <small>Industry: Transportation Management System /Logistics - (Rated the #1 Third-Party-Logistic provider 10 Years In a Row!)</small>
@@ -63,7 +68,7 @@ title: Companies
     Java, Amazon Simple Notification Service (SNS), microservices, Kafka, RabbitMQ, testing suites, Docker, Kubernetes, CI/CD, SQL, relational databases, non-relational databases, APIs, multithreading, AI Libraries, Jenkins, Elasticsearch, publish-subscribe architecture, event-driven systems.
     <p></p>
     <p></p>
-    <h2 style="margin: 0;"><strong>Fidelity Information Services</strong></h2>
+    <h2 id="fidelity" style="margin: 0;"><strong>Fidelity Information Services</strong></h2>
     <small>Industry: Financial Technology - (FIS works with 95% of the worlds leading banks! In 2019, FIS became the largest payment company in the world.)</small>
     <p></p>
     Fidelity Information Services is a global financial technology company that provides a broad range of solutions supporting the world’s financial ecosystem. Its offerings include <span style="font-weight:525;">Merchant Solutions, Banking Solutions, and Capital Markets Solutions</span>, which help businesses, banks, and financial institutions operate more efficiently. Through its technology platforms, FIS plays a key role in advancing the digital transformation of the financial economy—enhancing how the world pays, banks, and invests.
