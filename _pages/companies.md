@@ -34,7 +34,7 @@ title: Companies
 <body>
     <header>
         <nav>
-        <a href="fidelity"> Go to Fidelity</a>
+        <a href="#fidelity"> Go to Fidelity</a>
         </nav>
     </header>
     <hr>
