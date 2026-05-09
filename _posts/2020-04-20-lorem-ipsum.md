@@ -12,7 +12,7 @@ h1{
 </style>
 Seatly was created as a final project for an HCI course. It aims to provide students a live visual representation of available seats in the library. Users can view 4 different floorplans that represent John T Richardson Library at DePaul University.The idea is for students to hit a clicker at their table upon seating down which will reflect a red filled box on the map.Likewise, green filled boxes means that the seat is currently vacant. Finally, users can also reserve large furniture chairs which has limited availability.
 <p></p>
-<span style="font-weight:100;">Technologies and Tools Used:</span>
+<span style="font-weight:800;">Technologies and Tools Used:</span>
 <p></p>
 HTML, CSS, Javascript, Visual Studio
 <p></p>  
