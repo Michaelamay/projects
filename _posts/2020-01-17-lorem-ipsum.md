@@ -10,6 +10,11 @@ h1{
 }
 </style>
 Chuck Norris Speaks is a website in which users can click on a button to get popular and humorous Chuck Norris quotes. Chuck Norris or Carlos Ray Norris is an american martial artist, screenwriter, and action movie star.
+<p></p>
+<span>Technologies and Tools Used:</span>
+<p></p>
+HTML, CSS, Javascript, Visual Studio
+<p></p>  
 
 <a href="https://michaelamay.github.io/Chuck/">Visit website</a> &#x2022; <a href="https://github.com/Michaelamay/Chuck">View Source Code</a>
 

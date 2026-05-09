@@ -17,6 +17,11 @@ To run the program on your computer:
 1. Make sure you have Java installed, you can confirm by entering 'Java -version' on the command line or terminal. If Java is install on your machine, you should get the version number upon return.
 
 2. Extract the files in the zip file; open the command line and navigate to the directory where the files are extracted, and simply type 'java PitchDriver', the class will will look for and find the feed pitch data file automatically and return the results as shown in the screenshot below.
+<p></p>
+<span>Technologies and Tools Used:</span>
+<p></p>
+Java, Hashmaps, Trees, Eclipse
+<p></p>  
 
 <a href="https://github.com/Michaelamay/StockMarketSymbols/blob/main/PitchDriver.java">View source code</a> &#x2022;
 <a href="https://github.com/Michaelamay/StockMarketSymbols/raw/refs/heads/main/StockMarketSymbols.zip" download="true">Download Program Zip File</a> &#x2022; 

@@ -10,6 +10,11 @@ h1{
 }
 </style>
 This project uses an API from api.nasa.gov, to obtain a response in json format. It then works by retrieving the revelant image urls from the response, and displays them on the browser. API Key is needed.
+<p></p>
+<span>Technologies and Tools Used:</span>
+<p></p>
+ HTML, CSS, Javascript, API, Visual Studio
+<p></p>  
 
 <a href="https://michaelamay.github.io/MarsRoversPics/">Visit website</a> &#x2022; <a href="https://github.com/Michaelamay/MarsRoversPics">View Source Code</a>
 

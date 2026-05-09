@@ -10,6 +10,11 @@ h1{
 }
 </style>
 Employee System is a platform that allows users to add a new employee, update their personal information with a provided ID, delete an employee(s), and view all current active employees on the database.
+<p></p>
+<span>Technologies and Tools Used:</span>
+<p></p>
+Spring, Java, MVC, JSP, XML, REST, HTML, CSS, Javascript, API, h2, Tomcat, HTTTP Methods, Eclipse IDE
+<p></p>
 
 <a href="https://www.employeesystem.online">Visit website</a> &#x2022; <a href="https://github.com/Michaelamay/EmployeeSysRepo">View Source Code</a>
 
