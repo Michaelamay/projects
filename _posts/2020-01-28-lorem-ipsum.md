@@ -18,8 +18,7 @@ To run the program on your computer:
 
 2. Extract the files in the zip file; open the command line and navigate to the directory where the files are extracted, and simply type 'java PitchDriver', the class will will look for and find the feed pitch data file automatically and return the results as shown in the screenshot below.
 <p></p>
-<span style="font-weight:800;">Technologies and Tools Used:</span>
-<p></p>
+<span style="font-weight:900; margin: 0;">Technologies and Tools Used:</span>
 Java, Hashmaps, Trees, Eclipse
 <p></p>  
 

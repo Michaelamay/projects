@@ -11,8 +11,7 @@ h1{
 </style>
 This project uses an API from api.nasa.gov, to obtain a response in json format. It then works by retrieving the revelant image urls from the response, and displays them on the browser. API Key is needed.
 <p></p>
-<span style="font-weight:800;">Technologies and Tools Used:</span>
-<p></p>
+<span style="font-weight:900; margin: 0;">Technologies and Tools Used:</span>
  HTML, CSS, Javascript, API, Visual Studio
 <p></p>  
 

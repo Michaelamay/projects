@@ -11,8 +11,7 @@ h1{
 </style>
 Meal Search Hub is a website which allows users to search all kinds of receipes from around the world. A user simply needs to enter a keyword such as vegan lasgna and it will query www.TheMealDB.com API, load and save the data into a persistent database, and then render those results on the page. Users will be able to see all necessary ingredients to make their favorite meals.
 <p></p>
-<span style="font-weight:700;">Technologies and Tools Used:</span>
-<p></p>
+<span style="font-weight:900; margin: 0;">Technologies and Tools Used:</span>
 API, PHP, JavaScript, HTML, CSS, SQL, Visual Studio
 <p></p>
 

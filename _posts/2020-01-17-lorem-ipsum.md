@@ -11,8 +11,7 @@ h1{
 </style>
 Chuck Norris Speaks is a website in which users can click on a button to get popular and humorous Chuck Norris quotes. Chuck Norris or Carlos Ray Norris is an american martial artist, screenwriter, and action movie star.
 <p></p>
-<span style="font-weight:800;">Technologies and Tools Used:</span>
-<p></p>
+<span style="font-weight:900; margin: 0;">Technologies and Tools Used:</span>
 HTML, CSS, Javascript, Visual Studio
 <p></p>  
 
