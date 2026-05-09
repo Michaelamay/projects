@@ -61,7 +61,7 @@ title: Companies
     <p></p>
     <span style="font-weight:700;">Technologies and Tools Used:</span>
     <p></p>
-    Java, Amazon Simple Notification Service (SNS), microservices, Kafka, RabbitMQ, testing suites, Docker, Kubernetes, CI/CD, SQL, relational databases, non-relational databases, APIs, multithreading, AI Libraries, Jenkins, Elasticsearch, publish-subscribe architecture, event-driven systems.
+    Java, C#, Amazon Simple Notification Service (SNS), microservices, Kafka, RabbitMQ, testing suites, Docker, Kubernetes, CI/CD, SQL, relational databases, non-relational databases, APIs, multithreading, AI Libraries, Jenkins, Elasticsearch, publish-subscribe architecture, event-driven systems.
     <p></p>
     <p></p>
     <h2 id="fidelity" style="margin: 0;"><strong>Fidelity Information Services</strong><i class="fa-solid fa-credit-card" style="margin-left: 6px;"></i></h2>     
@@ -84,6 +84,8 @@ title: Companies
     Managed AWS cloud infrastructure utilizing EC2 and RDS to support scalable backend processing, and relational database management. Managed source control and collaborative development workflows through Git and integrated CI/CD pipelines using Jenkins to automate builds, unit testing, deployments, and release management.
     <p></p>
     <span style="font-weight:700;">Other Responsibilities:</span>
+    <p></p>
+    Worked in Angular and Typescript to develope UI components.
     <p></p>
     Developed automated unit testing suites using JUnit and Mockito to validate event-processing workflows prior to deployment, improving application stability and reducing production defects.
     <p></p>
