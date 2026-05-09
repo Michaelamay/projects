@@ -11,7 +11,7 @@ h1{
 </style>
 Healthcare Management App is a platform where patients can easily connect, register, and book appointments from a list of primary licensed physicians. Patients can enter all of their personal information including emergency contact, insurance, upload photo identification, enter a reason for the visit, and much more. All of the patients information is securely store in the Appwrite Cloud database.
 <p></p>
-<span>Technologies and Tools Used:</span>
+<span style="font-weight:600; margin: 0;">Technologies and Tools Used:</span>
 <p></p>
 Typescript, Next.js, React, CSS, Tailwind, Cloud Appwrite Relational Database, Vercel, Visual Studios.
 <p></p>
