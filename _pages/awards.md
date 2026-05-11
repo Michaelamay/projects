@@ -5,6 +5,10 @@ title: resume
 <html>
   <head>
     <style>
+        main {
+                margin: 0 auto;
+                max-width: 76rem !important;
+        }
       .grid-container {
         display: grid;
         grid-template-columns: repeat(2, 1fr); 
@@ -38,7 +42,7 @@ title: resume
 
   <body>
       <script>
-            const duration = 5 * 1000; // 5 seconds
+            const duration = 7 * 1000; // 5 seconds
             const end = Date.now() + duration;
             const frame = () => {
             confetti({ particleCount: 5, spread: 160, origin: { y: 0 } });
