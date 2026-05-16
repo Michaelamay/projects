@@ -54,19 +54,18 @@ title: Companies
     <span style="font-weight:700;">Technologies and Tools Used:</span>
     <p style="margin: 2px 0;"></p>
     Python, Bash, Scripting, Dev Ops, Command Line Interface, Docker Containers, Visual Studios, Project Terminus, Terminal-Bench, GPT, and Claude Opus.
-    <p></p>
-    <p></p>
+    <p style="margin: 4px 0;"></p>
     <h2 id="echo" style="margin: 0;"><strong>Echo Global Logistics</strong><i class="fa-solid fa-truck" style="margin-left: 6px;"></i></h2>
     <small>Industry: Transportation Management System /Logistics - (Rated the #1 Third-Party-Logistic provider 10 Years In a Row!)</small>
     <p style="margin: 2px 0;"></p>
     Echo Global Logistics is a transportation management technology company that connects businesses needing to ship freight with a network of carriers that move goods across the country. Through its digital logistics platform, Echo helps streamline the process of quoting, booking, tracking, and managing shipments. Echo offers three flagship products—<span style="font-weight:525;">EchoDrive, EchoShip, and EchoTrak</span>—each designed to simplify different parts of the shipping and carrier experience.
     <p></p>
     <span style="font-weight:525;">EchoDrive</span> is a web-based portal built for carriers. The platform allows dispatchers, owner-operators, and drivers to search for loads, submit bids, book shipments, manage assignments, track freight, and receive payments—all in one easy-to-use interface. With built-in real-time tracking, EchoDrive reduces the need for manual check-in calls and helps carriers manage loads more efficiently.<span style="font-weight:525;"> EchoShip</span> is a self-service shipping platform designed for businesses that need to move freight. It enables users to quickly generate quotes, compare carriers by cost, transit time, coverage, and service level, book shipments, track deliveries, manage invoices, and oversee their entire shipping process from a single dashboard.<span style="font-weight:525;"> EchoTrak</span> is Echo’s mobile application that provides shippers with logistics visibility and control while on the go. The app allows users to track shipments, manage logistics activity, and access real-time shipment data directly from their mobile devices.
-    <p></p>
+    <p style="margin: 4px 0;"></p>
     <span style="font-weight:700;">Accomplishments and Summary</span>
-    <p></p>
+    <p style="margin: 4px 0;"></p>
     Part of an 8-member team responsible for owning and enhancing 2 microservices within an event-driven, publish-subscribe architecture supporting the full shipment lifecycle, including the Shipment Tracking Service and Notification Service. Leveraged Kafka publisher-subscribe topics such as “Booked,” “In Transit,” “Arrived,” and “Delivered” to enable multiple downstream services to independently process shipment tracking, ETA calculation, and notification events.
-    <p></p>
+    <br>
     Supported customer communication and event fan-out by integrating Amazon Simple Notification Service (SNS) into the platform. Enabled Kafka consumers to process shipment events and publish targeted notifications to SNS topics, distributing updates across SQS queues, AWS Lambda functions, and mobile push notification services. Utilized RabbitMQ to support asynchronous processing and background task management; once delivery event were confirmed, messages were queued to trigger downstream workflows and customer notification services.
     <p></p>
     Developed automated unit testing suites using JUnit and Mockito to validate event-processing workflows, business logic, and API behavior prior to deployment. Utilized Docker containers for application deployment and Kubernetes for orchestration, enabling horizontal scaling of microservices during peak shipping periods. Configured Kubernetes to improve resiliency through automatic container restarts and workload balancing across nodes. Managed source control and CI/CD workflows using Git and Jenkins, enabling automated builds, deployments, and rollback strategies across dev and prod environments.
@@ -116,8 +115,7 @@ title: Companies
     <span style="font-weight:700;">Technologies and Tools Used:</span>
     <p></p>
     Java, Spring Boot, microservices, asynchronous event-driven workflows, Kafka, RabbitMQ, relational SQL database, Docker, AWS EC2, AWS RDS, Kubernetes, CI/CD pipelines, unit testing, deployments, Git, multithreading strategies. 
-    <p></p>
-    <p></p>
+    <p style="margin: 3px 0;"></p>
     <h2 id="bcbs" style="margin: 0;"><strong>BlueCross BlueShield of IL, MT, NM, OK & TX</strong><i class="fa-solid fa-hospital" style="margin-left: 6px;"></i></h2>
     <small>Industry: Healthcare - (1 in 3 americans are covered by BlueCross BlueShield.)</small>
     <p></p>
