@@ -8,8 +8,8 @@ title: Companies
     <script src="https://kit.fontawesome.com/6cddb4e091.js" crossorigin="anonymous"></script>
     <style>
         main {
-                margin: 0 auto;
-                max-width: 76rem !important;
+            margin: 0 auto;
+            max-width: 76rem !important;
         }
         .minor-font {
             font-size: 14px;
@@ -36,24 +36,29 @@ title: Companies
     <hr>
     <h2 id="snorkelai" style="margin: 0;"><strong>Snorkel AI</strong><i class="fa-solid fa-robot" style="margin-left: 6px;"></i></h2>
     <small>Industry: Artificial Intelligence / Programmatic Data Development / Business-Productivity Software</small>
-    <p></p>
+    <br>
     Snorkel AI pioneers’ programmatic data development, shifting enterprises away from manual labeling toward production-quality, specialized AI models built on proprietary data. Unlike conventional pipelines optimized for volume, Snorkel targets distributional gaps, benchmark blind spots, and tasks where correctness is difficult to define. Partnering with frontier AI labs, Snorkel builds research-grade datasets and evaluation systems assessed through task-specific rubrics and programmatic checks, utilizing AI evaluation experts to develop complex coding tasks for Terminal-Bench.
-    <p></p>
+    <p style="margin: 2px 0;"></p>
     <span style="font-weight:700;">Accomplishments and Summary</span>
-    <p></p>
-    Design and develop complex multi-step terminal benchmark tasks for Project Terminus and Terminal Bench, targeting state-of-the-art AI models including GPT-5.2 and Claude Opus 4.6<p></p>
-    Author expert Oracle solutions and deterministic Python unit test suites to validate AI agent task completion in containerized environments<p></p>
-    Build and configure Docker environments using Docker files and docker-compose for reproducible AI agent evaluation tasks.<p></p>
-    Evaluate and iterate on AI agent task difficulty through structured rubric development, targeting specific model accuracy thresholds across 10 agent runs<p></p>
-    Ensure submission quality by passing multi-stage programmatic CI checks, LLM-as-Judge evaluations, and manual peer review processes<p></p>
+    <p style="margin: 2px 0;"></p>
+    Design and develop complex multi-step terminal benchmark tasks for Project Terminus and Terminal Bench, targeting state-of-the-art AI models including GPT-5.2 and Claude Opus 4.6
+    <p style="margin: 2px 0;"></p>
+    Author expert Oracle solutions and deterministic Python unit test suites to validate AI agent task completion in containerized environments.
+    <p style="margin: 2px 0;"></p>
+    Build and configure Docker environments using Docker files and docker-compose for reproducible AI agent evaluation tasks.
+    <p style="margin: 2px 0;"></p>
+    Evaluate and iterate on AI agent task difficulty through structured rubric development, targeting specific model accuracy thresholds across 10 agent runs.
+    <p style="margin: 2px 0;"></p>
+    Ensure submission quality by passing multi-stage programmatic CI checks, LLM-as-Judge evaluations, and manual peer review processes.
+    <p style="margin: 2px 0;"></p>
     <span style="font-weight:700;">Technologies and Tools Used:</span>
-    <p></p>
+    <p style="margin: 2px 0;"></p>
     Python, Bash, Scripting, Dev Ops, Command Line Interface, Docker Containers, Visual Studios, Project Terminus, Terminal-Bench, GPT, and Claude Opus.
     <p></p>
     <p></p>
     <h2 id="echo" style="margin: 0;"><strong>Echo Global Logistics</strong><i class="fa-solid fa-truck" style="margin-left: 6px;"></i></h2>
     <small>Industry: Transportation Management System /Logistics - (Rated the #1 Third-Party-Logistic provider 10 Years In a Row!)</small>
-    <p></p>
+    <p style="margin: 2px 0;"></p>
     Echo Global Logistics is a transportation management technology company that connects businesses needing to ship freight with a network of carriers that move goods across the country. Through its digital logistics platform, Echo helps streamline the process of quoting, booking, tracking, and managing shipments. Echo offers three flagship products—<span style="font-weight:525;">EchoDrive, EchoShip, and EchoTrak</span>—each designed to simplify different parts of the shipping and carrier experience.
     <p></p>
     <span style="font-weight:525;">EchoDrive</span> is a web-based portal built for carriers. The platform allows dispatchers, owner-operators, and drivers to search for loads, submit bids, book shipments, manage assignments, track freight, and receive payments—all in one easy-to-use interface. With built-in real-time tracking, EchoDrive reduces the need for manual check-in calls and helps carriers manage loads more efficiently.<span style="font-weight:525;"> EchoShip</span> is a self-service shipping platform designed for businesses that need to move freight. It enables users to quickly generate quotes, compare carriers by cost, transit time, coverage, and service level, book shipments, track deliveries, manage invoices, and oversee their entire shipping process from a single dashboard.<span style="font-weight:525;"> EchoTrak</span> is Echo’s mobile application that provides shippers with logistics visibility and control while on the go. The app allows users to track shipments, manage logistics activity, and access real-time shipment data directly from their mobile devices.
