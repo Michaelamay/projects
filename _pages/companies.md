@@ -66,7 +66,7 @@ title: Companies
     <p style="margin: 4px 0;"></p>
     Part of an 8-member team responsible for owning and enhancing 2 microservices within an event-driven, publish-subscribe architecture supporting the full shipment lifecycle, including the Shipment Tracking Service and Notification Service. Leveraged Kafka publisher-subscribe topics such as “Booked,” “In Transit,” “Arrived,” and “Delivered” to enable multiple downstream services to independently process shipment tracking, ETA calculation, and notification events.
     <figure style="margin: 16px auto; max-width: 680px;">
-      <img src="{{ '/shipment-architecture.png' | relative_url }}"
+      <img src="{{ 'shipment-architecture.png' | relative_url }}"
            alt="Event-driven shipment lifecycle architecture: Kafka publish-subscribe fan-out from four lifecycle topics (Booked, In Transit, Arrived, Delivered) to the team-owned Shipment Tracking Service and Notification Service, plus an ETA Calculation Service."
            style="width:100%; max-width:680px; height:auto; display:block; margin:0 auto;">
       <figcaption class="minor-font" style="text-align:center; margin-top:6px;">Event-driven shipment lifecycle: Kafka publish-subscribe fan-out to downstream services.</figcaption>
