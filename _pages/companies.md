@@ -43,6 +43,8 @@ title: Companies
     <p style="margin: 2px 0;"></p>
     Design and develop complex multi-step terminal benchmark tasks for Project Terminus and Terminal Bench, targeting state-of-the-art AI models including GPT-5.2 and Claude Opus 4.6
     <p style="margin: 2px 0;"></p>
+    Design and deploy production-grade LLM and agentic AI systems that combine RAG pipelines, vector-based retrieval, tool orchestration, deterministic validation, and evaluation framework to execute multi-step workflows, identify model failure modes, and improve reliability across frontier AI agents.
+    <p style="margin: 2px 0;"></p>
     Author expert Oracle solutions and deterministic Python unit test suites to validate AI agent task completion in containerized environments.
     <p style="margin: 2px 0;"></p>
     Build and configure Docker environments using Docker files and docker-compose for reproducible AI agent evaluation tasks.
