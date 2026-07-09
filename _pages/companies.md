@@ -55,9 +55,7 @@ title: Companies
     <p style="margin: 2px 0;"></p>
     <span style="font-weight:700;">Other Responsibilities:</span>
     <p style="margin: 4px 0;"></p>
-    Help create expert-authored training data and benchmark for hard edge cases, such as conflicting documentation or subtle billing-policy exceptions, then build evals to measure
-    whether the assitant handles those cases correctly before wider rollout.
-    <p></p>
+    Help create expert-authored training data and benchmarks for hard edge cases, such as conflicting documentation or subtle billing-policy exceptions, then build evals to measure whether the assitant handles those cases correctly before wider rollout.
     <span style="font-weight:700;">Technologies and Tools Used:</span>
     <p style="margin: 2px 0;"></p>
     Python, Bash, Codex, Scripting, DevOps, Command Line, Docker Containers, Visual Studios, Terminal-Bench, GPT, and Claude Opus.
