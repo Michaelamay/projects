@@ -53,9 +53,27 @@ title: Companies
     <p style="margin: 2px 0;"></p>
     Ensure submission quality by passing multi-stage programmatic CI checks, LLM-as-Judge evaluations, and manual peer review processes.
     <p style="margin: 2px 0;"></p>
+    <span style="font-weight:700;">Recent Projects:</span>
+    <p style="margin: 4px 0;"></p>
+    Built an AI agent workflow for onboarding new clients at a healthcare clinic, focused on identifying errors, edge cases, and systemic failures before production deployment.<p style="margin: 2px 0;"></p>
+    Mapped the onboarding process into discrete, testable sub-tasks and defined a benchmark dataset before writing any agent logic.<p style="margin: 2px 0;"></p>
+    Collected a large sample of historical onboarding cases — intake packets, EHR entries, and related records — and de-identified them (stripped PHI) to maintain data privacy.<p style="margin: 2px 0;"></p>
+    Collaborated with onboarding coordinators, insurance specialists, and compliance officers to map out onboarding scenarios, correct actions, and edge cases in Airtable.<p style="margin: 2px 0;"></p>
+    Translated the Airtable scenario mapping into formal labeling functions and heuristics inside Snorkel Flow, programmatically classifying data at scale.<p style="margin: 2px 0;"></p>
+    Built pass/fail graders for each sub-task, combining deterministic checks, rule-based logic, and LLM-as-judge evaluation for subjective cases.<p style="margin: 2px 0;"></p>
+    Developed the core agent workflow in Python using LangChain, with Cursor as the development environment and Claude to accelerate implementation and debugging.<p style="margin: 2px 0;"></p>
+    Built a RAG pipeline using Pinecone as the vector database to retrieve relevant SOPs, policy rules, and prior onboarding examples.<p style="margin: 2px 0;"></p>
+    Passed retrieved context to the OpenAI API to generate multi-step execution plans, breaking onboarding into discrete actions such as validating client information, verifying identity, and determining downstream system updates.<p style="margin: 2px 0;"></p>
+    Integrated the workflow with Slack via internal APIs to notify clinic admins immediately upon task completion or when human intervention was required.<p style="margin: 2px 0;"></p>
+    Persisted workflow state and structured records in PostgreSQL to track progress and support auditability.<p style="margin: 2px 0;"></p>
+    Evaluated agent outputs using Snorkel Evaluate, Snorkel's dedicated evaluation platform, alongside a pytest suite run in Docker containers for repeatable testing.<p style="margin: 2px 0;"></p>
+    Automated build, test, and deployment with Jenkins and Kubernetes, packaging the agent into container images and rolling out new versions to the client's environment.<p style="margin: 2px 0;"></p>
+    Executed a staged rollout — running the agent in shadow mode to log decisions silently, then using LaunchDarkly to gradually route real onboarding cases to the agent as confidence increased.
+    <p style="margin: 4px 0;"></p>
     <span style="font-weight:700;">Other Responsibilities:</span>
     <p style="margin: 4px 0;"></p>
     Help create expert-authored training data and benchmarks for hard edge cases, such as conflicting documentation or subtle billing-policy exceptions, then build evals to measure whether the assitant handles those cases correctly before wider rollout.
+    <p style="margin: 4px 0;"></p>
     <span style="font-weight:700;">Technologies and Tools Used:</span>
     <p style="margin: 2px 0;"></p>
     Python, Bash, Codex, Scripting, DevOps, Command Line, Docker Containers, Visual Studios, Terminal-Bench, GPT, and Claude Opus.
