@@ -41,17 +41,17 @@ title: Companies
     <p style="margin: 2px 0;"></p>
     <span style="font-weight:700;">Accomplishments and Summary</span>
     <p style="margin: 2px 0;"></p>
-    Design and develop complex multi-step terminal benchmark tasks for Project Terminus and Terminal Bench, targeting state-of-the-art AI models including GPT-5.2 and Claude Opus 4.6
+    Design and develop complex multi-step terminal benchmark tasks for Project Terminus and Terminal Bench, targeting state-of-the-art AI models including GPT-5.2 and Claude Opus 4.6.
     <p style="margin: 2px 0;"></p>
-    Design and deploy production-grade LLM and agentic AI systems that combine RAG pipelines, vector-based retrieval, tool orchestration, deterministic validation, and evaluation framework to execute multi-step workflows, identify model failure modes, and improve reliability across frontier AI agents.
+    Design and deploy production-grade LLM and agentic AI systems that combine RAG pipelines, vector-based retrieval, tool orchestration, deterministic validation, and evaluation frameworks to execute multi-step workflows; collaborate as part of a four-person cross-functional team consisting of a Solutions Engineer, Applied AI Engineer, Software Platform Engineer, and Account Executive to deliver enterprise AI workflow solutions for customer engagements.
     <p style="margin: 2px 0;"></p>
     Author expert Oracle solutions and deterministic Python unit test suites to validate AI agent task completion in containerized environments.
     <p style="margin: 2px 0;"></p>
-    Build and configure Docker environments using Docker files and docker-compose for reproducible AI agent evaluation tasks.
+    Build and configure Docker environments using Dockerfiles and Docker Compose to create reproducible AI agent evaluation environments and streamline development workflows.
     <p style="margin: 2px 0;"></p>
-    Evaluate and iterate on AI agent task difficulty through structured rubric development, targeting specific model accuracy thresholds across 10 agent runs.
+    Evaluate and iterate on AI agent task difficulty through structured rubric development, targeting specific model accuracy thresholds across multiple agent runs.
     <p style="margin: 2px 0;"></p>
-    Ensure submission quality by passing multi-stage programmatic CI checks, LLM-as-Judge evaluations, and manual peer review processes.
+    Ensure submission quality through multi-stage programmatic CI checks, LLM-as-Judge evaluations, and manual expert peer review processes.
     <p style="margin: 2px 0;"></p>
     <span style="font-weight:700;">Recent Projects:</span>
     <p style="margin: 4px 0;"></p>
@@ -76,7 +76,7 @@ title: Companies
     <p style="margin: 4px 0;"></p>
     <span style="font-weight:700;">Technologies and Tools Used:</span>
     <p style="margin: 2px 0;"></p>
-    Python, Bash, Codex, Scripting, DevOps, Command Line, Docker Containers, Visual Studios, Terminal-Bench, GPT, and Claude Opus.
+    Python, Bash, Codex, Scripting, DevOps, Command Line, Docker Containers, Visual Studios, Terminal-Bench, GPT, and Claude Opus, LangChain, AirTable, Cursor, GPT, OpenAI, Slack, Salesforce, Jenkins, Kuberenetes.
     <p style="margin: 4px 0;"></p>
     <h2 id="echo" style="margin: 0;"><strong>Echo Global Logistics</strong><i class="fa-solid fa-truck" style="margin-left: 6px;"></i></h2>
     <small>Industry: Transportation Management System /Logistics - (Rated the #1 Third-Party-Logistic provider 10 Years In a Row!)</small>
