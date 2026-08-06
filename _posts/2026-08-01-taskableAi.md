@@ -19,9 +19,9 @@ Codex (AI assisted development), Spring Boot, Java 17, Maven, H2 db, JPA, HTML, 
 
 <!-- Image section -->
 
-<img src="taskable1.png" alt="main shot" border="3">
-<img src="/_pages/taskable2.png" alt="continue registration" border="3">
-<img src="https://i.ibb.co/9k5Zzgzh/healthcareapp-three.png" alt="medical information" border="3">
-<img src="https://i.ibb.co/xqPcGydk/healthcareapp-four.png" alt="ID and verification" border="3">
+<img src="{{ '/_pages/taskable1.png' | relative_url }}" alt="main shot" border="3">
+<img src="{{ '/_pages/taskable2.png' | relative_url }}" alt="Create task" border="3">
+<img src="{{ '/_pages/taskable3.png' | relative_url }}" alt="Breakdown task" border="3">
+<img src="{{ '/_pages/taskable4.png' | relative_url }}" alt="Summarize task" border="3">
 
 
