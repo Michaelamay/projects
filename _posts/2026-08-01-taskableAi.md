@@ -15,7 +15,7 @@ Taskable is a Spring Boot Java 17 personal task manager that combines standard C
 Codex (AI assisted development), Spring Boot, Java 17, Maven, H2 db, JPA, HTML, CSS, Javascript, Vibe-coding, Visual Studios.
 <p></p>
 
-<a href="https://taskable.fly.dev/">Visit website</a> &#x2022; <a href="https://github.com/Michaelamay/taskable">View Source Code</a>
+<a href="https://taskable.fly.dev/">Visit website</a> &#x2022; <a href="https://github.com/Michaelamay/taskable">View Source Code</a> &#x2022; <a href="https://github.com/Michaelamay/taskable/blob/main/transcript.md">See Prompt Transcript</a> 
 
 <!-- Image section -->
 <img src="https://i.ibb.co/B5wjS3YL/taskable1.png" alt="main shot" border="3">
