@@ -12,7 +12,7 @@ h1{
 Agentic AI orchestrator that routes natural language queries across 191 tools spanning Gmail, Slack, Google Drive, Calendar, Linear, GitHub, and Perplexity. Uses a two-step approach: a fast classifier narrows 191 tools down to the relevant subset, then a dynamic agentic loop executes multi-step workflows, handles errors, and returns a complete tool call log.
 <p></p>
 <span style="font-weight:900; margin: 0;">Technologies and Tools Used:</span>
-React, Typescript, Codex (AI assisted development), Claude, Visual Studios, Python, Railway, Vercel, Command Line, API
+React, Typescript, FASTAPI, Codex (AI assisted development), Claude, Visual Studios, Python, Railway, Vercel, Command Line, API
 <p></p>
 
 <a href="https://ai-tool-orchestrator-ui.vercel.app">Visit website</a> &#x2022; <a href="https://github.com/Michaelamay/ai-tool-orchestrator-ui">View Source Code - Frontend</a> &#x2022; <a href="https://github.com/Michaelamay/ai-tool-orchestrator-api">View Source Code - Backend</a> 
