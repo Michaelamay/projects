@@ -16,7 +16,7 @@ On the host machine, we captured live screen frames and processed them using Ope
 For text-heavy environments like terminals, documents, and code editors, this approach proved significantly more bandwidth-efficient than traditional streaming. The core pipeline — OpenCV for frame analysis, Tesseract for OCR, and Python tying it all together — kept the solution technically grounded while putting Machine Learning at the center of the capture process. That earned our team the Best Use of Machine Learning award at the event.
 <p></p>
 <span style="font-weight:900; margin: 0;">Technologies and Tools Used:</span>
-JAVA, YOLO (Real-Time Object Detection), Google's Tesseract OCR, Machine Learning, NetBeans
+Python, YOLO (Real-Time Object Detection), Google's Tesseract OCR, Machine Learning, PyCharm
 <p></p>   
 
 <a href="https://github.com/Michaelamay/Skeleton-1">View Source Code</a>
