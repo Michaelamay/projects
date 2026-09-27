@@ -1,5 +1,7 @@
 ---
 layout: post
+project_order: 4
+date: 2020-03-11
 title: Furnitureland <br><font style="color:gray"><small>E-commerce Website</small></font>
 description: Lorem Ipsum is simply dummy text
 summary: A mock website that sells furniture.<br><br><strong>Written:</strong> HTML, CSS, Javascript, jQuery, Bootstrap
@@ -21,5 +23,3 @@ HTML, CSS, Javascript, jQuery, Bootstrap, Visual Studio
 <img src="https://i.ibb.co/0hRGQGP/main-screen.png" alt="main-screen" border="3">
 <img src="https://i.ibb.co/r2YGQwH/middle-column-items.png" alt="middle-column-items" border="3">
 <img src="https://i.ibb.co/pjRby5B/footer.png" alt="footer" border="3">
-
-

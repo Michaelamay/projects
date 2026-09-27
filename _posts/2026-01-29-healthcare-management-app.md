@@ -1,5 +1,7 @@
 ---
 layout: post
+project_order: 3
+date: 2026-01-29
 title: Healthcare Management App <br><font style="color:gray"><small>Online Patient Services Platform</small></font>
 description: A platform where patients can easily connect and book appointments with doctors.
 summary: A simple platform where patients can easily book appointments with doctors.<br><br><strong>Written:</strong> Typescript, Next.js, React, CSS, Tailwind, Cloud Appwrite Database, Vercel, and Visual Studio.

@@ -1,5 +1,7 @@
 ---
 layout: post
+project_order: 2
+date: 2026-08-20
 title: AI Tool Orchestrator <br><font style="color:gray"><small>AI Tool Orchestrator Web Application</small></font>
 description: AI system orchestrating 191 tools across Gmail, Slack, Drive, GitHub & more. Built with FastAPI, GPT-4.1-mini, and a dynamic multi-step tool routing loop.
 summary: Natural language → 191 tools across 7 services. Smart routing + agentic loop built with FastAPI & GPT-4.1-mini.<br><br><strong>Written:</strong> React, Typescript, Codex (AI assisted development), Claude, Visual Studios, Python, Railway, Vercel, Command Line, API

@@ -1,5 +1,7 @@
 ---
 layout: post
+project_order: 7
+date: 2020-03-15
 title: Twitter Viewer <br><font style="color:gray"><small>Desktop application</small></font>
 description: Enter a keyword to view and save related tweets via Twitter's API.
 summary: A simple fun desktop application to search tweets and saved them.<br><br><strong>Written:</strong> Java, Twitter's API, H2 RDBMS, NetBeans
@@ -23,8 +25,6 @@ How to run app via the command line
 <img src="https://i.ibb.co/3MKvR5M/command-Line-Instructions.png" alt="command line" border="3">
 <img src="https://i.ibb.co/XY2y5V6/search.png" alt="search" border="3">
 <img src="https://i.ibb.co/D9frf9H/source-tweet.png" alt="source-tweet" border="3">
-
-
 
 
 

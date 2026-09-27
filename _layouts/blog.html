@@ -5,7 +5,8 @@ title: Notes
 
 <div class="grid">
 
-  {% for post in site.posts %}
+  {% assign ordered_posts = site.posts | sort: "project_order" %}
+  {% for post in ordered_posts %}
   
 
     <article role="article" class="card">

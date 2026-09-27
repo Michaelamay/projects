@@ -1,5 +1,7 @@
 ---
 layout: post
+project_order: 1
+date: 2026-07-29
 title: Taskable AI App <br><font style="color:gray"><small>AI Task Manager Application</small></font>
 description: Taskable is a Spring Boot Java 17 personal task manager with CRUD task management, an H2-backed local database, and AI-powered task suggestion, summarization, and breakdown features.
 summary: It gives users a simple web UI and REST API to create and manage tasks, while also using Claude-powered endpoints to turn plain English into structured tasks and persisted subtasks.<br><br><strong>Written:</strong> Codex (AI assisted development), Spring Boot, Java 17, Maven, H2 db, JPA, HTML, CSS, Javascript, Vibe-coding, Visual Studios.

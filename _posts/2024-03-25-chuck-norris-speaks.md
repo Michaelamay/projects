@@ -1,5 +1,7 @@
 ---
 layout: post
+project_order: 12
+date: 2024-03-25
 title: Chuck Norris Speaks <br><font style="color:gray"><small>Entertainment Website</small></font>
 description: Lorem Ipsum is simply dummy text
 summary: A website which lets users interact with a button to get popular and humorous Chuck Norris Quotes.<br><br><strong>Written:</strong> HTML, CSS, Javascript
@@ -21,7 +23,5 @@ HTML, CSS, Javascript, Visual Studio
 <!--<img src="https://i.ibb.co/mcgTnfM/Chuck-home.png" alt="Main front page" border="3">-->
 
 <img src="https://i.ibb.co/mcgTnfM/Chuck-home.png" alt="Main front page">
-
-
 
 

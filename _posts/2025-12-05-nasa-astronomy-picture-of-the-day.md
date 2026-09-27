@@ -1,5 +1,7 @@
 ---
 layout: post
+project_order: 10
+date: 2025-12-05
 title: NASA Astronomy Picture of the Day <br><font style="color:gray"><small>Educational Science Website</small></font>
 description: Lorem Ipsum is simply dummy text
 summary: NASA Astronomy Picture of the Day is a website displaying pictures from NASA including planets, exoplanets, the solar system, cosmos, and more!<br><br><strong>Written:</strong> HTML, CSS, Javascript, API
@@ -21,7 +23,5 @@ This project uses an API from api.nasa.gov, to obtain a response in json format.
 <!--<img src="https://i.ibb.co/mcgTnfM/Chuck-home.png" alt="Main front page" border="3">-->
 
 <img src="https://i.ibb.co/sbPYmyg/Mars-Home-Page.png" alt="Main front page">
-
-
 
 

@@ -1,5 +1,7 @@
 ---
 layout: post
+project_order: 6
+date: 2025-12-03
 title: Meal Search Hub <br><font style="color:gray"><small>Food Search Website</small></font>
 description: Lorem Ipsum is simply dummy text
 summary: A website to search popular food receipes using an API.<br><br><strong>Written:</strong> API, PHP, JavaScript, HTML, CSS, SQL
