@@ -13,7 +13,7 @@ GEM
     eventmachine (1.2.7)
     faraday (0.15.4)
       multipart-post (>= 1.2, < 3)
-    ffi (1.11.1)
+    ffi (1.16.3)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
     i18n (0.9.5)
@@ -77,6 +77,7 @@ PLATFORMS
 
 DEPENDENCIES
   disqus-for-jekyll
+  ffi (~> 1.16.3)
   jekyll
   jekyll-gist
   jekyll-git_metadata

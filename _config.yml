@@ -1,5 +1,5 @@
 site: Colorie
-url: 
+url: "https://michaelamay.com"
 author: Colorie
 author:
   name: Colorie
@@ -29,7 +29,7 @@ disqus:
   name: "your disqus username" # required
   noscript: "Please enable JavaScript to view the comments powered by Disqus." # optional
 
-baseurl:             "/projects"
+baseurl:             ""
 
 include:
   - _redirects
