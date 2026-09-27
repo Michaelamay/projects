@@ -18,15 +18,7 @@ Codex (AI assisted development), Spring Boot, Java 17, Maven, H2 db, JPA, HTML, 
 <a href="https://taskable.fly.dev/">Visit website</a> &#x2022; <a href="https://github.com/Michaelamay/taskable">View Source Code</a> &#x2022; <a href="https://github.com/Michaelamay/taskable/blob/main/transcript.md">See Prompt Transcript</a> 
 
 <!-- Image section -->
-<img src="https://i.ibb.co/B5wjS3YL/taskable1.png" alt="main shot" border="3">
-<img src="https://i.ibb.co/YFPCxkbF/taskable2.png" alt="Create task" border="3">
-<img src="https://i.ibb.co/jvCs42c7/taskable3.png" alt="Breakdown task" border="3">
-<img src="https://i.ibb.co/Qvsz5p82/taskable4.png" alt="Summarize task" border="3">
-
-
-<!-- 
-<img src="{{ '/taskable1.png' | relative_url }}" alt="main shot" border="3">
-<img src="{{ '/taskable2.png' | relative_url }}" alt="Create task" border="3">
-<img src="{{ '/taskable3.png' | relative_url }}" alt="Breakdown task" border="3">
-<img src="{{ '/taskable4.png' | relative_url }}" alt="Summarize task" border="3">
--->
+<img src="{{ '/images/taskable/taskable1.png' | relative_url }}" alt="Taskable dashboard" border="3">
+<img src="{{ '/images/taskable/taskable2.png' | relative_url }}" alt="Create task" border="3">
+<img src="{{ '/images/taskable/taskable3.png' | relative_url }}" alt="Break down task" border="3">
+<img src="{{ '/images/taskable/taskable4.png' | relative_url }}" alt="Summarize task" border="3">
