@@ -21,7 +21,4 @@ Warning: Chrome browser recommended. If you encounter a Not Secure or Your Conne
 <a href="https://mealsearchonline.online/fs/index.php">Visit website</a> &#x2022; <a href="https://github.com/Michaelamay/FoodStore">View Source Code</a>
 
 <!-- Image section -->
-<!--<img src="https://i.ibb.co/mcgTnfM/Chuck-home.png" alt="Main front page" border="3">-->
-<img src="https://i.ibb.co/G5Gtzr9/Food-Store.png" alt="Main front page">
-<!-- <img src="/images/FoodStore.png" style="width:100px;height:100px;" alt="Main front page"> -->
-
+<img src="{{ '/images/meal-search-hub/food-store.png' | relative_url }}" alt="Meal Search Hub results page" border="3">
