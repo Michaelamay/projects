@@ -20,6 +20,6 @@ HTML, CSS, Javascript, jQuery, Bootstrap, Visual Studio
 <a href="https://michaelamay.github.io/Furnitureland/">Visit website</a> &#x2022; <a href="https://github.com/Michaelamay/Furnitureland">View Source Code</a>
 
 <!-- Image section -->
-<img src="https://i.ibb.co/0hRGQGP/main-screen.png" alt="main-screen" border="3">
-<img src="https://i.ibb.co/r2YGQwH/middle-column-items.png" alt="middle-column-items" border="3">
-<img src="https://i.ibb.co/pjRby5B/footer.png" alt="footer" border="3">
+<img src="{{ '/images/furnitureland/main-screen.png' | relative_url }}" alt="Furnitureland home screen" border="3">
+<img src="{{ '/images/furnitureland/middle-column-items.png' | relative_url }}" alt="Furnitureland product listings" border="3">
+<img src="{{ '/images/furnitureland/footer.png' | relative_url }}" alt="Furnitureland page footer" border="3">

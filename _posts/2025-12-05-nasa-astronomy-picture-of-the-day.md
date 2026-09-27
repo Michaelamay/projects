@@ -20,8 +20,5 @@ This project uses an API from api.nasa.gov, to obtain a response in json format.
 <a href="https://michaelamay.github.io/MarsRoversPics/">Visit website</a> &#x2022; <a href="https://github.com/Michaelamay/MarsRoversPics">View Source Code</a>
 
 <!-- Image section -->
-<!--<img src="https://i.ibb.co/mcgTnfM/Chuck-home.png" alt="Main front page" border="3">-->
-
-<img src="https://i.ibb.co/sbPYmyg/Mars-Home-Page.png" alt="Main front page">
-
+<img src="{{ '/images/nasa-astronomy-picture-of-the-day/mars-home-page.png' | relative_url }}" alt="NASA Astronomy Picture of the Day home page" border="3">
 

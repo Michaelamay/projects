@@ -20,8 +20,5 @@ HTML, CSS, Javascript, Visual Studio
 <a href="https://michaelamay.github.io/Chuck/">Visit website</a> &#x2022; <a href="https://github.com/Michaelamay/Chuck">View Source Code</a>
 
 <!-- Image section -->
-<!--<img src="https://i.ibb.co/mcgTnfM/Chuck-home.png" alt="Main front page" border="3">-->
-
-<img src="https://i.ibb.co/mcgTnfM/Chuck-home.png" alt="Main front page">
-
+<img src="{{ '/images/chuck-norris-speaks/chuck-home.png' | relative_url }}" alt="Chuck Norris Speaks home page" border="3">
 

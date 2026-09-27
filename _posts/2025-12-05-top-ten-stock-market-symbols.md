@@ -29,8 +29,5 @@ Java, Hashmaps, Trees, Eclipse
 
 
 <!-- Image section -->
-<!--<img src="https://i.ibb.co/mcgTnfM/Chuck-home.png" alt="Main front page" border="3">-->
-
-<img src="https://i.ibb.co/hMK4S1n/Screen-Shot-2024-04-28-at-8-12-38-PM.png" alt="Main front page">
-
+<img src="{{ '/images/top-ten-stock-market-symbols/command-line.png' | relative_url }}" alt="Top Ten Stock Market Symbols command-line output" border="3">
 

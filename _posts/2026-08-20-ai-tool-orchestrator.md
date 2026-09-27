@@ -20,15 +20,7 @@ React, Typescript, FASTAPI, Codex (AI assisted development), Claude, Visual Stud
 <a href="https://ai-tool-orchestrator-ui.vercel.app">Visit website</a> &#x2022; <a href="https://github.com/Michaelamay/ai-tool-orchestrator-ui">View Source Code - Frontend</a> &#x2022; <a href="https://github.com/Michaelamay/ai-tool-orchestrator-api">View Source Code - Backend</a> 
 
 <!-- Image section -->
-<img src="https://i.ibb.co/B2s4spdv/homepage.png" alt="main shot" border="3">
-<img src="https://i.ibb.co/Y7hLy6sx/chat-prompt.png" alt="Chat prompt" border="3">
-<img src="https://i.ibb.co/Z6G586d9/chat-response.png" alt="chat response" border="3">
-<img src="https://i.ibb.co/jvY1wWd3/tool-call.png" alt="tool call" border="3">
-
-
-<!-- 
-<img src="{{ '/taskable1.png' | relative_url }}" alt="main shot" border="3">
-<img src="{{ '/taskable2.png' | relative_url }}" alt="Create task" border="3">
-<img src="{{ '/taskable3.png' | relative_url }}" alt="Breakdown task" border="3">
-<img src="{{ '/taskable4.png' | relative_url }}" alt="Summarize task" border="3">
--->
+<img src="{{ '/images/ai-tool-orchestrator/homepage.png' | relative_url }}" alt="AI Tool Orchestrator home page" border="3">
+<img src="{{ '/images/ai-tool-orchestrator/chat-prompt.png' | relative_url }}" alt="AI Tool Orchestrator chat prompt" border="3">
+<img src="{{ '/images/ai-tool-orchestrator/chat-response.png' | relative_url }}" alt="AI Tool Orchestrator chat response" border="3">
+<img src="{{ '/images/ai-tool-orchestrator/tool-call.png' | relative_url }}" alt="AI Tool Orchestrator tool call" border="3">

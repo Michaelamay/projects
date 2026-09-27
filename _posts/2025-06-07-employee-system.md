@@ -20,6 +20,4 @@ Spring, Java, MVC, JSP, XML, REST, HTML, CSS, Javascript, API, h2, Tomcat, HTTTP
 <a href="https://www.employeesystem.online">Visit website</a> &#x2022; <a href="https://github.com/Michaelamay/EmployeeSysRepo">View Source Code</a>
 
 <!-- Image section -->
-<!--<img src="https://i.ibb.co/mcgTnfM/Chuck-home.png" alt="Main front page" border="3">-->
-
-<img src="https://i.ibb.co/CnpCXCS/emplyoeesysimg.png" alt="Main front page">
+<img src="{{ '/images/employee-system/employee-system.png' | relative_url }}" alt="Employee System home page" border="3">

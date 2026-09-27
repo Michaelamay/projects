@@ -22,10 +22,9 @@ Java, Twitter's API, H2 RDBMS, NetBeans, Eclipse
 <a href="https://github.com/Michaelamay/TwitterViewer/raw/master/dist/TweetViewer.jar">Download</a> &#x2022; <a href="https://github.com/Michaelamay/TwitterViewer">View Source Code</a>
 
 How to run app via the command line
-<img src="https://i.ibb.co/3MKvR5M/command-Line-Instructions.png" alt="command line" border="3">
-<img src="https://i.ibb.co/XY2y5V6/search.png" alt="search" border="3">
-<img src="https://i.ibb.co/D9frf9H/source-tweet.png" alt="source-tweet" border="3">
-
+<img src="{{ '/images/twitter-viewer/command-line-instructions.png' | relative_url }}" alt="Twitter Viewer command-line instructions" border="3">
+<img src="{{ '/images/twitter-viewer/search.png' | relative_url }}" alt="Twitter Viewer search screen" border="3">
+<img src="{{ '/images/twitter-viewer/source-tweet.png' | relative_url }}" alt="Twitter Viewer saved tweet source" border="3">
 
 
 
