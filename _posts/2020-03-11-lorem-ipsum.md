@@ -19,9 +19,7 @@ JAVA, YOLO (Real-Time Object Detection), Google's Tesseract OCR, Machine Learnin
 
 <!-- Image section -->
 
-<img src="https://i.ibb.co/tJKfsHN/predictions.png" alt="Main front page">
-<img src="https://i.ibb.co/WWRLw14/group.jpg" alt="Team photo">
-
-
+<!-- TODO: Recover predictions.png from i.ibb.co. <img src="https://i.ibb.co/tJKfsHN/predictions.png" alt="Skeleton predictions screen" border="3"> -->
+<img src="{{ '/images/skeleton/group.jpg' | relative_url }}" alt="Skeleton project team" border="3">
 
 
