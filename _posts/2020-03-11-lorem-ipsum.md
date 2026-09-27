@@ -1,5 +1,6 @@
 ---
 layout: post
+award_winning: true
 title: Skeleton <br><font style="color:gray"><small>Machine Learning Program</small></font>
 description: Lorem Ipsum is simply dummy text
 summary: Reimagining remote desktop by transmitting structured OCR data instead of streaming raw video..<br><br><strong>Written:</strong> JAVA, YOLO (Real-Time Object Detection), Google's Tesseract OCR, Machine Learning, NetBeans
@@ -25,5 +26,4 @@ Python, YOLO (Real-Time Object Detection), Google's Tesseract OCR, Machine Learn
 
 <!-- TODO: Recover predictions.png from i.ibb.co. <img src="https://i.ibb.co/tJKfsHN/predictions.png" alt="Skeleton predictions screen" border="3"> -->
 <img src="{{ '/images/skeleton/group.jpg' | relative_url }}" alt="Skeleton project team" border="3">
-
 

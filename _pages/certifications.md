@@ -76,6 +76,12 @@ title: Certs
 /*                Making all but last row of frames bigger.*/
                 height: 450px;
                 width: 550px;
+                box-sizing: border-box;
+                border: 7px solid transparent;
+                border-image: linear-gradient(145deg, #f1d778 0%, #c69214 48%, #8f6108 100%) 1;
+                box-shadow:
+                    inset 0 1px 0 rgba(255, 255, 255, 0.65),
+                    0 7px 16px rgba(75, 52, 5, 0.25);
             }
             .littleBox{
                 width: 350px;
@@ -104,11 +110,11 @@ title: Certs
 -->    
         <div class="box4">
             <div class="boxa">
-                <img class="display" style="border:7px solid #C19A6B;" src="/AWSConcepts.png">
+                <img class="display" src="/AWSConcepts.png">
 
             </div>
             <div class="boxa">
-                <img class="display" style="border:7px solid #C19A6B;" src="Docker.png">
+                <img class="display" src="Docker.png">
 
             </div>
         </div>
@@ -116,11 +122,11 @@ title: Certs
     
         <div class="box3">
             <div class="boxa">
-                <img class="display" style="border:7px solid #C19A6B;" src="/LearningRESTAPIs.png">
+                <img class="display" src="/LearningRESTAPIs.png">
 
             </div>
             <div class="boxa">
-                <img class="display" style="border:7px solid #C19A6B;" src="API_testing.png">
+                <img class="display" src="API_testing.png">
 
             </div>
         </div>
@@ -129,39 +135,39 @@ title: Certs
 
         <div class="box2">
             <div class="boxa">
-                <img class="display" style="border:7px solid #C19A6B;" src="/Jenkins.png">
+                <img class="display" src="/Jenkins.png">
             </div>
 
             <div class="boxa">
-                <img class="display" style="border:7px solid #C19A6B;" src="Agile_foundations.png">
+                <img class="display" src="Agile_foundations.png">
             </div>
         </div>
 
         <div class="box0">
             <div class="boxa">
-                <img class="display" style="border:7px solid #C19A6B;" src="/AgileManagement.png">
+                <img class="display" src="/AgileManagement.png">
             </div>
             <div class="boxa">
-                <img class="display" style="border:7px solid #C19A6B;" src="Angular.png">
+                <img class="display" src="Angular.png">
             </div>
         </div>
 
 
         <div class="box1">
             <div class="boxa">
-                <img class="display" style="border:7px solid #C19A6B;" src="/RPA.png">
+                <img class="display" src="/RPA.png">
             </div>
             <div class="boxa">
-                <img class="display" style="border:7px solid #C19A6B;" src="Udemy_webstore.png">
+                <img class="display" src="Udemy_webstore.png">
             </div>
         </div>
 
         <div class="outterBox">
             <div class="littleBox">
-                <img class="display" style="height:450px; width: 550px; border:7px solid #C19A6B;" src="/Coursera_deeplearning.png">
+                <img class="display" src="/Coursera_deeplearning.png">
             </div>
             <div class="littleBox">
-                <img class="display" style="height:450px; width: 550px; border:7px solid #C19A6B;" src="RPA_foundationTraining.png">
+                <img class="display" src="RPA_foundationTraining.png">
             </div>
         </div>
     </body>

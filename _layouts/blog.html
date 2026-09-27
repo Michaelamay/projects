@@ -7,7 +7,13 @@ title: Notes
 
   {% for post in site.posts %}
   
+
     <article role="article" class="card">
+	{% if forloop.first %}
+	  <span class="new-ribbon" aria-label="New project">NEW</span>
+	{% elsif post.award_winning %}
+	  <span class="award-ribbon" aria-label="Award-winning project">AWARD WINNING</span>
+	{% endif %}
 	    <div class="meta">
  <!--      <h2><a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
@@ -24,4 +30,3 @@ title: Notes
   {% endfor %}
   
    </div>
-
